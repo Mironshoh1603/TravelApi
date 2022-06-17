@@ -1,0 +1,6082 @@
+[
+  {
+    "Airport": {
+      "Code": "ATL",
+      "Name": "Atlanta, GA: Hartsfield-Jackson Atlanta International"
+    },
+    "Time": {
+      "Label": "2003/06",
+      "Month": 6,
+      "Month Name": "June",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 1009,
+        "Late Aircraft": 1275,
+        "National Aviation System": 3217,
+        "Security": 17,
+        "Weather": 328
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Delta Air Lines Inc.,Atlantic Southeast Airlines,AirTran Airways Corporation,America West Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,United Air Lines Inc.,US Airways Inc.",
+        "Total": 11
+      },
+      "Flights": {
+        "Cancelled": 216,
+        "Delayed": 5843,
+        "Diverted": 27,
+        "On Time": 23974,
+        "Total": 30060
+      },
+      "Minutes Delayed": {
+        "Carrier": 61606,
+        "Late Aircraft": 68335,
+        "National Aviation System": 118831,
+        "Security": 518,
+        "Total": 268764,
+        "Weather": 19474
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "BOS",
+      "Name": "Boston, MA: Logan International"
+    },
+    "Time": {
+      "Label": "2003/06",
+      "Month": 6,
+      "Month Name": "June",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 374,
+        "Late Aircraft": 495,
+        "National Aviation System": 685,
+        "Security": 3,
+        "Weather": 66
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,Atlantic Southeast Airlines,AirTran Airways Corporation,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 14
+      },
+      "Flights": {
+        "Cancelled": 138,
+        "Delayed": 1623,
+        "Diverted": 3,
+        "On Time": 7875,
+        "Total": 9639
+      },
+      "Minutes Delayed": {
+        "Carrier": 20319,
+        "Late Aircraft": 28189,
+        "National Aviation System": 24400,
+        "Security": 99,
+        "Total": 77167,
+        "Weather": 4160
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "BWI",
+      "Name": "Baltimore, MD: Baltimore/Washington International Thurgood Marshall"
+    },
+    "Time": {
+      "Label": "2003/06",
+      "Month": 6,
+      "Month Name": "June",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 296,
+        "Late Aircraft": 477,
+        "National Aviation System": 389,
+        "Security": 8,
+        "Weather": 78
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Continental Air Lines Inc.,Delta Air Lines Inc.,AirTran Airways Corporation,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 11
+      },
+      "Flights": {
+        "Cancelled": 29,
+        "Delayed": 1245,
+        "Diverted": 15,
+        "On Time": 6998,
+        "Total": 8287
+      },
+      "Minutes Delayed": {
+        "Carrier": 13635,
+        "Late Aircraft": 26810,
+        "National Aviation System": 17556,
+        "Security": 278,
+        "Total": 64480,
+        "Weather": 6201
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "CLT",
+      "Name": "Charlotte, NC: Charlotte Douglas International"
+    },
+    "Time": {
+      "Label": "2003/06",
+      "Month": 6,
+      "Month Name": "June",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 300,
+        "Late Aircraft": 472,
+        "National Aviation System": 735,
+        "Security": 2,
+        "Weather": 54
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,Atlantic Southeast Airlines,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 11
+      },
+      "Flights": {
+        "Cancelled": 73,
+        "Delayed": 1562,
+        "Diverted": 14,
+        "On Time": 7021,
+        "Total": 8670
+      },
+      "Minutes Delayed": {
+        "Carrier": 14763,
+        "Late Aircraft": 23379,
+        "National Aviation System": 23804,
+        "Security": 127,
+        "Total": 65865,
+        "Weather": 3792
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "DCA",
+      "Name": "Washington, DC: Ronald Reagan Washington National"
+    },
+    "Time": {
+      "Label": "2003/06",
+      "Month": 6,
+      "Month Name": "June",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 283,
+        "Late Aircraft": 268,
+        "National Aviation System": 487,
+        "Security": 4,
+        "Weather": 58
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,Atlantic Southeast Airlines,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 13
+      },
+      "Flights": {
+        "Cancelled": 74,
+        "Delayed": 1100,
+        "Diverted": 18,
+        "On Time": 5321,
+        "Total": 6513
+      },
+      "Minutes Delayed": {
+        "Carrier": 13775,
+        "Late Aircraft": 13712,
+        "National Aviation System": 20999,
+        "Security": 120,
+        "Total": 52747,
+        "Weather": 4141
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "DEN",
+      "Name": "Denver, CO: Denver International"
+    },
+    "Time": {
+      "Label": "2003/06",
+      "Month": 6,
+      "Month Name": "June",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 516,
+        "Late Aircraft": 323,
+        "National Aviation System": 664,
+        "Security": 11,
+        "Weather": 98
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Delta Air Lines Inc.,Atlantic Southeast Airlines,AirTran Airways Corporation,America West Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 13
+      },
+      "Flights": {
+        "Cancelled": 34,
+        "Delayed": 1611,
+        "Diverted": 22,
+        "On Time": 10024,
+        "Total": 11691
+      },
+      "Minutes Delayed": {
+        "Carrier": 26634,
+        "Late Aircraft": 18969,
+        "National Aviation System": 23538,
+        "Security": 706,
+        "Total": 75428,
+        "Weather": 5581
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "DFW",
+      "Name": "Dallas/Fort Worth, TX: Dallas/Fort Worth International"
+    },
+    "Time": {
+      "Label": "2003/06",
+      "Month": 6,
+      "Month Name": "June",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 986,
+        "Late Aircraft": 1390,
+        "National Aviation System": 2147,
+        "Security": 19,
+        "Weather": 258
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Continental Air Lines Inc.,Delta Air Lines Inc.,Atlantic Southeast Airlines,AirTran Airways Corporation,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 13
+      },
+      "Flights": {
+        "Cancelled": 394,
+        "Delayed": 4798,
+        "Diverted": 133,
+        "On Time": 22303,
+        "Total": 27628
+      },
+      "Minutes Delayed": {
+        "Carrier": 70918,
+        "Late Aircraft": 80714,
+        "National Aviation System": 90574,
+        "Security": 683,
+        "Total": 263521,
+        "Weather": 20632
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "DTW",
+      "Name": "Detroit, MI: Detroit Metro Wayne County"
+    },
+    "Time": {
+      "Label": "2003/06",
+      "Month": 6,
+      "Month Name": "June",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 376,
+        "Late Aircraft": 371,
+        "National Aviation System": 570,
+        "Security": 6,
+        "Weather": 71
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 11
+      },
+      "Flights": {
+        "Cancelled": 123,
+        "Delayed": 1395,
+        "Diverted": 9,
+        "On Time": 10227,
+        "Total": 11754
+      },
+      "Minutes Delayed": {
+        "Carrier": 21802,
+        "Late Aircraft": 18715,
+        "National Aviation System": 16482,
+        "Security": 139,
+        "Total": 60667,
+        "Weather": 3529
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "EWR",
+      "Name": "Newark, NJ: Newark Liberty International"
+    },
+    "Time": {
+      "Label": "2003/06",
+      "Month": 6,
+      "Month Name": "June",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 322,
+        "Late Aircraft": 519,
+        "National Aviation System": 1948,
+        "Security": 10,
+        "Weather": 121
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,AirTran Airways Corporation,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 13
+      },
+      "Flights": {
+        "Cancelled": 102,
+        "Delayed": 2921,
+        "Diverted": 42,
+        "On Time": 9441,
+        "Total": 12506
+      },
+      "Minutes Delayed": {
+        "Carrier": 20190,
+        "Late Aircraft": 30905,
+        "National Aviation System": 91048,
+        "Security": 490,
+        "Total": 150513,
+        "Weather": 7880
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "FLL",
+      "Name": "Fort Lauderdale, FL: Fort Lauderdale-Hollywood International"
+    },
+    "Time": {
+      "Label": "2003/06",
+      "Month": 6,
+      "Month Name": "June",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 247,
+        "Late Aircraft": 256,
+        "National Aviation System": 427,
+        "Security": 5,
+        "Weather": 34
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Delta Air Lines Inc.,AirTran Airways Corporation,America West Airlines Inc.,Northwest Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 11
+      },
+      "Flights": {
+        "Cancelled": 13,
+        "Delayed": 967,
+        "Diverted": 10,
+        "On Time": 3672,
+        "Total": 4662
+      },
+      "Minutes Delayed": {
+        "Carrier": 12547,
+        "Late Aircraft": 14600,
+        "National Aviation System": 14935,
+        "Security": 141,
+        "Total": 44303,
+        "Weather": 2080
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "IAD",
+      "Name": "Washington, DC: Washington Dulles International"
+    },
+    "Time": {
+      "Label": "2003/06",
+      "Month": 6,
+      "Month Name": "June",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 320,
+        "Late Aircraft": 295,
+        "National Aviation System": 573,
+        "Security": 3,
+        "Weather": 66
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,AirTran Airways Corporation,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,United Air Lines Inc.,US Airways Inc.",
+        "Total": 13
+      },
+      "Flights": {
+        "Cancelled": 101,
+        "Delayed": 1256,
+        "Diverted": 35,
+        "On Time": 7027,
+        "Total": 8419
+      },
+      "Minutes Delayed": {
+        "Carrier": 16754,
+        "Late Aircraft": 18074,
+        "National Aviation System": 25807,
+        "Security": 182,
+        "Total": 65529,
+        "Weather": 4712
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "IAH",
+      "Name": "Houston, TX: George Bush Intercontinental/Houston"
+    },
+    "Time": {
+      "Label": "2003/06",
+      "Month": 6,
+      "Month Name": "June",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 329,
+        "Late Aircraft": 730,
+        "National Aviation System": 1405,
+        "Security": 15,
+        "Weather": 123
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Continental Air Lines Inc.,Delta Air Lines Inc.,Atlantic Southeast Airlines,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,ExpressJet Airlines Inc.,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 12
+      },
+      "Flights": {
+        "Cancelled": 91,
+        "Delayed": 2601,
+        "Diverted": 173,
+        "On Time": 12686,
+        "Total": 15551
+      },
+      "Minutes Delayed": {
+        "Carrier": 21782,
+        "Late Aircraft": 43428,
+        "National Aviation System": 56414,
+        "Security": 577,
+        "Total": 134182,
+        "Weather": 11981
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "JFK",
+      "Name": "New York, NY: John F. Kennedy International"
+    },
+    "Time": {
+      "Label": "2003/06",
+      "Month": 6,
+      "Month Name": "June",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 376,
+        "Late Aircraft": 226,
+        "National Aviation System": 394,
+        "Security": 21,
+        "Weather": 28
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,Atlantic Southeast Airlines,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,United Air Lines Inc.",
+        "Total": 11
+      },
+      "Flights": {
+        "Cancelled": 24,
+        "Delayed": 1046,
+        "Diverted": 13,
+        "On Time": 4695,
+        "Total": 5778
+      },
+      "Minutes Delayed": {
+        "Carrier": 22029,
+        "Late Aircraft": 11593,
+        "National Aviation System": 14103,
+        "Security": 659,
+        "Total": 50335,
+        "Weather": 1951
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "LAS",
+      "Name": "Las Vegas, NV: McCarran International"
+    },
+    "Time": {
+      "Label": "2003/06",
+      "Month": 6,
+      "Month Name": "June",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 511,
+        "Late Aircraft": 678,
+        "National Aviation System": 624,
+        "Security": 17,
+        "Weather": 64
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Delta Air Lines Inc.,America West Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 12
+      },
+      "Flights": {
+        "Cancelled": 39,
+        "Delayed": 1893,
+        "Diverted": 6,
+        "On Time": 9821,
+        "Total": 11759
+      },
+      "Minutes Delayed": {
+        "Carrier": 24293,
+        "Late Aircraft": 31043,
+        "National Aviation System": 19561,
+        "Security": 808,
+        "Total": 79533,
+        "Weather": 3828
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "LAX",
+      "Name": "Los Angeles, CA: Los Angeles International"
+    },
+    "Time": {
+      "Label": "2003/06",
+      "Month": 6,
+      "Month Name": "June",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 830,
+        "Late Aircraft": 765,
+        "National Aviation System": 842,
+        "Security": 37,
+        "Weather": 97
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,Continental Air Lines Inc.,Delta Air Lines Inc.,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 12
+      },
+      "Flights": {
+        "Cancelled": 101,
+        "Delayed": 2571,
+        "Diverted": 10,
+        "On Time": 15780,
+        "Total": 18462
+      },
+      "Minutes Delayed": {
+        "Carrier": 40089,
+        "Late Aircraft": 39655,
+        "National Aviation System": 26162,
+        "Security": 2559,
+        "Total": 114434,
+        "Weather": 5969
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "LGA",
+      "Name": "New York, NY: LaGuardia"
+    },
+    "Time": {
+      "Label": "2003/06",
+      "Month": 6,
+      "Month Name": "June",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 302,
+        "Late Aircraft": 338,
+        "National Aviation System": 867,
+        "Security": 4,
+        "Weather": 94
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,AirTran Airways Corporation,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 11
+      },
+      "Flights": {
+        "Cancelled": 121,
+        "Delayed": 1604,
+        "Diverted": 22,
+        "On Time": 7161,
+        "Total": 8908
+      },
+      "Minutes Delayed": {
+        "Carrier": 17384,
+        "Late Aircraft": 18954,
+        "National Aviation System": 41007,
+        "Security": 191,
+        "Total": 82859,
+        "Weather": 5323
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "MCO",
+      "Name": "Orlando, FL: Orlando International"
+    },
+    "Time": {
+      "Label": "2003/06",
+      "Month": 6,
+      "Month Name": "June",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 368,
+        "Late Aircraft": 434,
+        "National Aviation System": 535,
+        "Security": 3,
+        "Weather": 48
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Delta Air Lines Inc.,AirTran Airways Corporation,America West Airlines Inc.,Northwest Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 12
+      },
+      "Flights": {
+        "Cancelled": 9,
+        "Delayed": 1388,
+        "Diverted": 9,
+        "On Time": 6211,
+        "Total": 7617
+      },
+      "Minutes Delayed": {
+        "Carrier": 17707,
+        "Late Aircraft": 26116,
+        "National Aviation System": 18073,
+        "Security": 56,
+        "Total": 65140,
+        "Weather": 3188
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "MDW",
+      "Name": "Chicago, IL: Chicago Midway International"
+    },
+    "Time": {
+      "Label": "2003/06",
+      "Month": 6,
+      "Month Name": "June",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 180,
+        "Late Aircraft": 411,
+        "National Aviation System": 311,
+        "Security": 12,
+        "Weather": 39
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,AirTran Airways Corporation,Northwest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,Southwest Airlines Co.",
+        "Total": 9
+      },
+      "Flights": {
+        "Cancelled": 47,
+        "Delayed": 951,
+        "Diverted": 6,
+        "On Time": 6057,
+        "Total": 7061
+      },
+      "Minutes Delayed": {
+        "Carrier": 8535,
+        "Late Aircraft": 20938,
+        "National Aviation System": 10702,
+        "Security": 331,
+        "Total": 42962,
+        "Weather": 2456
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "MIA",
+      "Name": "Miami, FL: Miami International"
+    },
+    "Time": {
+      "Label": "2003/06",
+      "Month": 6,
+      "Month Name": "June",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 247,
+        "Late Aircraft": 210,
+        "National Aviation System": 585,
+        "Security": 2,
+        "Weather": 66
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,Continental Air Lines Inc.,Delta Air Lines Inc.,AirTran Airways Corporation,America West Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 11
+      },
+      "Flights": {
+        "Cancelled": 28,
+        "Delayed": 1105,
+        "Diverted": 22,
+        "On Time": 3745,
+        "Total": 4900
+      },
+      "Minutes Delayed": {
+        "Carrier": 12609,
+        "Late Aircraft": 12700,
+        "National Aviation System": 22976,
+        "Security": 66,
+        "Total": 52191,
+        "Weather": 3840
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "MSP",
+      "Name": "Minneapolis, MN: Minneapolis-St Paul International"
+    },
+    "Time": {
+      "Label": "2003/06",
+      "Month": 6,
+      "Month Name": "June",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 428,
+        "Late Aircraft": 376,
+        "National Aviation System": 759,
+        "Security": 9,
+        "Weather": 106
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Continental Air Lines Inc.,Delta Air Lines Inc.,AirTran Airways Corporation,America West Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 11
+      },
+      "Flights": {
+        "Cancelled": 101,
+        "Delayed": 1678,
+        "Diverted": 11,
+        "On Time": 10404,
+        "Total": 12194
+      },
+      "Minutes Delayed": {
+        "Carrier": 27468,
+        "Late Aircraft": 20994,
+        "National Aviation System": 23137,
+        "Security": 529,
+        "Total": 78259,
+        "Weather": 6131
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "ORD",
+      "Name": "Chicago, IL: Chicago O'Hare International"
+    },
+    "Time": {
+      "Label": "2003/06",
+      "Month": 6,
+      "Month Name": "June",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 801,
+        "Late Aircraft": 982,
+        "National Aviation System": 2947,
+        "Security": 11,
+        "Weather": 157
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,Atlantic Southeast Airlines,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,United Air Lines Inc.,US Airways Inc.",
+        "Total": 12
+      },
+      "Flights": {
+        "Cancelled": 261,
+        "Delayed": 4899,
+        "Diverted": 38,
+        "On Time": 24997,
+        "Total": 30195
+      },
+      "Minutes Delayed": {
+        "Carrier": 54296,
+        "Late Aircraft": 55855,
+        "National Aviation System": 135851,
+        "Security": 604,
+        "Total": 257007,
+        "Weather": 10401
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "PDX",
+      "Name": "Portland, OR: Portland International"
+    },
+    "Time": {
+      "Label": "2003/06",
+      "Month": 6,
+      "Month Name": "June",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 193,
+        "Late Aircraft": 248,
+        "National Aviation System": 213,
+        "Security": 11,
+        "Weather": 22
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,Continental Air Lines Inc.,Delta Air Lines Inc.,America West Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,United Air Lines Inc.,Southwest Airlines Co.",
+        "Total": 9
+      },
+      "Flights": {
+        "Cancelled": 17,
+        "Delayed": 684,
+        "Diverted": 5,
+        "On Time": 4040,
+        "Total": 4746
+      },
+      "Minutes Delayed": {
+        "Carrier": 8260,
+        "Late Aircraft": 11909,
+        "National Aviation System": 5943,
+        "Security": 505,
+        "Total": 27645,
+        "Weather": 1028
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "PHL",
+      "Name": "Philadelphia, PA: Philadelphia International"
+    },
+    "Time": {
+      "Label": "2003/06",
+      "Month": 6,
+      "Month Name": "June",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 338,
+        "Late Aircraft": 565,
+        "National Aviation System": 1083,
+        "Security": 1,
+        "Weather": 64
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,AirTran Airways Corporation,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 12
+      },
+      "Flights": {
+        "Cancelled": 83,
+        "Delayed": 2049,
+        "Diverted": 20,
+        "On Time": 6917,
+        "Total": 9069
+      },
+      "Minutes Delayed": {
+        "Carrier": 16478,
+        "Late Aircraft": 31005,
+        "National Aviation System": 45538,
+        "Security": 21,
+        "Total": 97173,
+        "Weather": 4131
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "PHX",
+      "Name": "Phoenix, AZ: Phoenix Sky Harbor International"
+    },
+    "Time": {
+      "Label": "2003/06",
+      "Month": 6,
+      "Month Name": "June",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 491,
+        "Late Aircraft": 569,
+        "National Aviation System": 664,
+        "Security": 19,
+        "Weather": 41
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,Continental Air Lines Inc.,Delta Air Lines Inc.,America West Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 12
+      },
+      "Flights": {
+        "Cancelled": 57,
+        "Delayed": 1783,
+        "Diverted": 10,
+        "On Time": 12158,
+        "Total": 14008
+      },
+      "Minutes Delayed": {
+        "Carrier": 26512,
+        "Late Aircraft": 27458,
+        "National Aviation System": 18673,
+        "Security": 768,
+        "Total": 76031,
+        "Weather": 2620
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "SAN",
+      "Name": "San Diego, CA: San Diego International"
+    },
+    "Time": {
+      "Label": "2003/06",
+      "Month": 6,
+      "Month Name": "June",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 324,
+        "Late Aircraft": 349,
+        "National Aviation System": 341,
+        "Security": 8,
+        "Weather": 30
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Delta Air Lines Inc.,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 12
+      },
+      "Flights": {
+        "Cancelled": 20,
+        "Delayed": 1052,
+        "Diverted": 4,
+        "On Time": 5775,
+        "Total": 6851
+      },
+      "Minutes Delayed": {
+        "Carrier": 15034,
+        "Late Aircraft": 15747,
+        "National Aviation System": 10449,
+        "Security": 223,
+        "Total": 43215,
+        "Weather": 1762
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "SEA",
+      "Name": "Seattle, WA: Seattle/Tacoma International"
+    },
+    "Time": {
+      "Label": "2003/06",
+      "Month": 6,
+      "Month Name": "June",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 448,
+        "Late Aircraft": 552,
+        "National Aviation System": 454,
+        "Security": 28,
+        "Weather": 36
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Delta Air Lines Inc.,America West Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 12
+      },
+      "Flights": {
+        "Cancelled": 63,
+        "Delayed": 1516,
+        "Diverted": 9,
+        "On Time": 7658,
+        "Total": 9246
+      },
+      "Minutes Delayed": {
+        "Carrier": 22647,
+        "Late Aircraft": 28119,
+        "National Aviation System": 13860,
+        "Security": 1097,
+        "Total": 68673,
+        "Weather": 2950
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "SFO",
+      "Name": "San Francisco, CA: San Francisco International"
+    },
+    "Time": {
+      "Label": "2003/06",
+      "Month": 6,
+      "Month Name": "June",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 416,
+        "Late Aircraft": 312,
+        "National Aviation System": 1080,
+        "Security": 14,
+        "Weather": 59
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,Continental Air Lines Inc.,Delta Air Lines Inc.,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 11
+      },
+      "Flights": {
+        "Cancelled": 83,
+        "Delayed": 1880,
+        "Diverted": 9,
+        "On Time": 8211,
+        "Total": 10183
+      },
+      "Minutes Delayed": {
+        "Carrier": 22673,
+        "Late Aircraft": 17879,
+        "National Aviation System": 45407,
+        "Security": 1138,
+        "Total": 90487,
+        "Weather": 3390
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "SLC",
+      "Name": "Salt Lake City, UT: Salt Lake City International"
+    },
+    "Time": {
+      "Label": "2003/06",
+      "Month": 6,
+      "Month Name": "June",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 363,
+        "Late Aircraft": 290,
+        "National Aviation System": 352,
+        "Security": 15,
+        "Weather": 36
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Delta Air Lines Inc.,Atlantic Southeast Airlines,America West Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,United Air Lines Inc.,Southwest Airlines Co.",
+        "Total": 10
+      },
+      "Flights": {
+        "Cancelled": 34,
+        "Delayed": 1057,
+        "Diverted": 0,
+        "On Time": 9491,
+        "Total": 10582
+      },
+      "Minutes Delayed": {
+        "Carrier": 16227,
+        "Late Aircraft": 13883,
+        "National Aviation System": 10512,
+        "Security": 556,
+        "Total": 42863,
+        "Weather": 1685
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "TPA",
+      "Name": "Tampa, FL: Tampa International"
+    },
+    "Time": {
+      "Label": "2003/06",
+      "Month": 6,
+      "Month Name": "June",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 226,
+        "Late Aircraft": 327,
+        "National Aviation System": 524,
+        "Security": 3,
+        "Weather": 42
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Delta Air Lines Inc.,AirTran Airways Corporation,America West Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 11
+      },
+      "Flights": {
+        "Cancelled": 12,
+        "Delayed": 1122,
+        "Diverted": 11,
+        "On Time": 4256,
+        "Total": 5401
+      },
+      "Minutes Delayed": {
+        "Carrier": 11012,
+        "Late Aircraft": 18558,
+        "National Aviation System": 19078,
+        "Security": 112,
+        "Total": 51364,
+        "Weather": 2604
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "ATL",
+      "Name": "Atlanta, GA: Hartsfield-Jackson Atlanta International"
+    },
+    "Time": {
+      "Label": "2003/07",
+      "Month": 7,
+      "Month Name": "July",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 1259,
+        "Late Aircraft": 1791,
+        "National Aviation System": 4022,
+        "Security": 13,
+        "Weather": 367
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Delta Air Lines Inc.,Atlantic Southeast Airlines,AirTran Airways Corporation,America West Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,United Air Lines Inc.,US Airways Inc.",
+        "Total": 11
+      },
+      "Flights": {
+        "Cancelled": 484,
+        "Delayed": 7452,
+        "Diverted": 71,
+        "On Time": 22868,
+        "Total": 30875
+      },
+      "Minutes Delayed": {
+        "Carrier": 87261,
+        "Late Aircraft": 116728,
+        "National Aviation System": 184740,
+        "Security": 356,
+        "Total": 418274,
+        "Weather": 29189
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "BOS",
+      "Name": "Boston, MA: Logan International"
+    },
+    "Time": {
+      "Label": "2003/07",
+      "Month": 7,
+      "Month Name": "July",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 450,
+        "Late Aircraft": 587,
+        "National Aviation System": 609,
+        "Security": 0,
+        "Weather": 61
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,Atlantic Southeast Airlines,AirTran Airways Corporation,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 14
+      },
+      "Flights": {
+        "Cancelled": 226,
+        "Delayed": 1710,
+        "Diverted": 3,
+        "On Time": 8033,
+        "Total": 9972
+      },
+      "Minutes Delayed": {
+        "Carrier": 28610,
+        "Late Aircraft": 36619,
+        "National Aviation System": 26923,
+        "Security": 10,
+        "Total": 97186,
+        "Weather": 5024
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "BWI",
+      "Name": "Baltimore, MD: Baltimore/Washington International Thurgood Marshall"
+    },
+    "Time": {
+      "Label": "2003/07",
+      "Month": 7,
+      "Month Name": "July",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 387,
+        "Late Aircraft": 646,
+        "National Aviation System": 544,
+        "Security": 4,
+        "Weather": 102
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Continental Air Lines Inc.,Delta Air Lines Inc.,AirTran Airways Corporation,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 11
+      },
+      "Flights": {
+        "Cancelled": 57,
+        "Delayed": 1679,
+        "Diverted": 20,
+        "On Time": 6855,
+        "Total": 8611
+      },
+      "Minutes Delayed": {
+        "Carrier": 18395,
+        "Late Aircraft": 42876,
+        "National Aviation System": 28654,
+        "Security": 81,
+        "Total": 100157,
+        "Weather": 10151
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "CLT",
+      "Name": "Charlotte, NC: Charlotte Douglas International"
+    },
+    "Time": {
+      "Label": "2003/07",
+      "Month": 7,
+      "Month Name": "July",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 335,
+        "Late Aircraft": 542,
+        "National Aviation System": 945,
+        "Security": 0,
+        "Weather": 74
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,Atlantic Southeast Airlines,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 11
+      },
+      "Flights": {
+        "Cancelled": 163,
+        "Delayed": 1895,
+        "Diverted": 24,
+        "On Time": 6883,
+        "Total": 8965
+      },
+      "Minutes Delayed": {
+        "Carrier": 17830,
+        "Late Aircraft": 32502,
+        "National Aviation System": 37630,
+        "Security": 0,
+        "Total": 94531,
+        "Weather": 6569
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "DCA",
+      "Name": "Washington, DC: Ronald Reagan Washington National"
+    },
+    "Time": {
+      "Label": "2003/07",
+      "Month": 7,
+      "Month Name": "July",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 343,
+        "Late Aircraft": 270,
+        "National Aviation System": 573,
+        "Security": 3,
+        "Weather": 74
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,Atlantic Southeast Airlines,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 13
+      },
+      "Flights": {
+        "Cancelled": 181,
+        "Delayed": 1260,
+        "Diverted": 13,
+        "On Time": 5241,
+        "Total": 6695
+      },
+      "Minutes Delayed": {
+        "Carrier": 17776,
+        "Late Aircraft": 18002,
+        "National Aviation System": 25897,
+        "Security": 111,
+        "Total": 67839,
+        "Weather": 6053
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "DEN",
+      "Name": "Denver, CO: Denver International"
+    },
+    "Time": {
+      "Label": "2003/07",
+      "Month": 7,
+      "Month Name": "July",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 562,
+        "Late Aircraft": 434,
+        "National Aviation System": 646,
+        "Security": 2,
+        "Weather": 111
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Delta Air Lines Inc.,Atlantic Southeast Airlines,AirTran Airways Corporation,America West Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 13
+      },
+      "Flights": {
+        "Cancelled": 71,
+        "Delayed": 1753,
+        "Diverted": 9,
+        "On Time": 10869,
+        "Total": 12702
+      },
+      "Minutes Delayed": {
+        "Carrier": 29155,
+        "Late Aircraft": 30028,
+        "National Aviation System": 25912,
+        "Security": 87,
+        "Total": 91893,
+        "Weather": 6711
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "DFW",
+      "Name": "Dallas/Fort Worth, TX: Dallas/Fort Worth International"
+    },
+    "Time": {
+      "Label": "2003/07",
+      "Month": 7,
+      "Month Name": "July",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 1216,
+        "Late Aircraft": 1443,
+        "National Aviation System": 2081,
+        "Security": 18,
+        "Weather": 244
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Continental Air Lines Inc.,Delta Air Lines Inc.,Atlantic Southeast Airlines,AirTran Airways Corporation,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 13
+      },
+      "Flights": {
+        "Cancelled": 274,
+        "Delayed": 5003,
+        "Diverted": 64,
+        "On Time": 22982,
+        "Total": 28323
+      },
+      "Minutes Delayed": {
+        "Carrier": 78047,
+        "Late Aircraft": 83156,
+        "National Aviation System": 80740,
+        "Security": 447,
+        "Total": 258631,
+        "Weather": 16241
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "DTW",
+      "Name": "Detroit, MI: Detroit Metro Wayne County"
+    },
+    "Time": {
+      "Label": "2003/07",
+      "Month": 7,
+      "Month Name": "July",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 475,
+        "Late Aircraft": 448,
+        "National Aviation System": 816,
+        "Security": 4,
+        "Weather": 145
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,Atlantic Southeast Airlines,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 12
+      },
+      "Flights": {
+        "Cancelled": 175,
+        "Delayed": 1891,
+        "Diverted": 22,
+        "On Time": 10104,
+        "Total": 12192
+      },
+      "Minutes Delayed": {
+        "Carrier": 33660,
+        "Late Aircraft": 26421,
+        "National Aviation System": 30809,
+        "Security": 137,
+        "Total": 103913,
+        "Weather": 12886
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "EWR",
+      "Name": "Newark, NJ: Newark Liberty International"
+    },
+    "Time": {
+      "Label": "2003/07",
+      "Month": 7,
+      "Month Name": "July",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 410,
+        "Late Aircraft": 706,
+        "National Aviation System": 1665,
+        "Security": 11,
+        "Weather": 125
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,AirTran Airways Corporation,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 13
+      },
+      "Flights": {
+        "Cancelled": 285,
+        "Delayed": 2917,
+        "Diverted": 59,
+        "On Time": 9797,
+        "Total": 13058
+      },
+      "Minutes Delayed": {
+        "Carrier": 27536,
+        "Late Aircraft": 45894,
+        "National Aviation System": 95872,
+        "Security": 295,
+        "Total": 180839,
+        "Weather": 11242
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "FLL",
+      "Name": "Fort Lauderdale, FL: Fort Lauderdale-Hollywood International"
+    },
+    "Time": {
+      "Label": "2003/07",
+      "Month": 7,
+      "Month Name": "July",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 262,
+        "Late Aircraft": 328,
+        "National Aviation System": 412,
+        "Security": 6,
+        "Weather": 35
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Delta Air Lines Inc.,AirTran Airways Corporation,America West Airlines Inc.,Northwest Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 11
+      },
+      "Flights": {
+        "Cancelled": 19,
+        "Delayed": 1041,
+        "Diverted": 1,
+        "On Time": 3785,
+        "Total": 4846
+      },
+      "Minutes Delayed": {
+        "Carrier": 13333,
+        "Late Aircraft": 21007,
+        "National Aviation System": 15824,
+        "Security": 172,
+        "Total": 52714,
+        "Weather": 2378
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "IAD",
+      "Name": "Washington, DC: Washington Dulles International"
+    },
+    "Time": {
+      "Label": "2003/07",
+      "Month": 7,
+      "Month Name": "July",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 395,
+        "Late Aircraft": 406,
+        "National Aviation System": 671,
+        "Security": 10,
+        "Weather": 84
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,AirTran Airways Corporation,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,United Air Lines Inc.,US Airways Inc.",
+        "Total": 13
+      },
+      "Flights": {
+        "Cancelled": 217,
+        "Delayed": 1567,
+        "Diverted": 14,
+        "On Time": 6990,
+        "Total": 8788
+      },
+      "Minutes Delayed": {
+        "Carrier": 22887,
+        "Late Aircraft": 26373,
+        "National Aviation System": 35084,
+        "Security": 309,
+        "Total": 92720,
+        "Weather": 8067
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "IAH",
+      "Name": "Houston, TX: George Bush Intercontinental/Houston"
+    },
+    "Time": {
+      "Label": "2003/07",
+      "Month": 7,
+      "Month Name": "July",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 441,
+        "Late Aircraft": 960,
+        "National Aviation System": 1506,
+        "Security": 9,
+        "Weather": 115
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Continental Air Lines Inc.,Delta Air Lines Inc.,Atlantic Southeast Airlines,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,ExpressJet Airlines Inc.,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 12
+      },
+      "Flights": {
+        "Cancelled": 90,
+        "Delayed": 3031,
+        "Diverted": 77,
+        "On Time": 13269,
+        "Total": 16467
+      },
+      "Minutes Delayed": {
+        "Carrier": 27204,
+        "Late Aircraft": 52723,
+        "National Aviation System": 52976,
+        "Security": 221,
+        "Total": 141506,
+        "Weather": 8382
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "JFK",
+      "Name": "New York, NY: John F. Kennedy International"
+    },
+    "Time": {
+      "Label": "2003/07",
+      "Month": 7,
+      "Month Name": "July",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 347,
+        "Late Aircraft": 231,
+        "National Aviation System": 455,
+        "Security": 12,
+        "Weather": 39
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,Atlantic Southeast Airlines,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,United Air Lines Inc.",
+        "Total": 11
+      },
+      "Flights": {
+        "Cancelled": 32,
+        "Delayed": 1082,
+        "Diverted": 24,
+        "On Time": 5067,
+        "Total": 6205
+      },
+      "Minutes Delayed": {
+        "Carrier": 21108,
+        "Late Aircraft": 13117,
+        "National Aviation System": 16836,
+        "Security": 362,
+        "Total": 54400,
+        "Weather": 2977
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "LAS",
+      "Name": "Las Vegas, NV: McCarran International"
+    },
+    "Time": {
+      "Label": "2003/07",
+      "Month": 7,
+      "Month Name": "July",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 560,
+        "Late Aircraft": 760,
+        "National Aviation System": 570,
+        "Security": 8,
+        "Weather": 99
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Delta Air Lines Inc.,Atlantic Southeast Airlines,America West Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 13
+      },
+      "Flights": {
+        "Cancelled": 73,
+        "Delayed": 1998,
+        "Diverted": 52,
+        "On Time": 10083,
+        "Total": 12206
+      },
+      "Minutes Delayed": {
+        "Carrier": 30498,
+        "Late Aircraft": 44219,
+        "National Aviation System": 26557,
+        "Security": 210,
+        "Total": 110270,
+        "Weather": 8786
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "LAX",
+      "Name": "Los Angeles, CA: Los Angeles International"
+    },
+    "Time": {
+      "Label": "2003/07",
+      "Month": 7,
+      "Month Name": "July",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 864,
+        "Late Aircraft": 807,
+        "National Aviation System": 557,
+        "Security": 12,
+        "Weather": 141
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,Continental Air Lines Inc.,Delta Air Lines Inc.,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 12
+      },
+      "Flights": {
+        "Cancelled": 145,
+        "Delayed": 2380,
+        "Diverted": 10,
+        "On Time": 16760,
+        "Total": 19295
+      },
+      "Minutes Delayed": {
+        "Carrier": 45717,
+        "Late Aircraft": 47458,
+        "National Aviation System": 23552,
+        "Security": 224,
+        "Total": 126984,
+        "Weather": 10033
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "LGA",
+      "Name": "New York, NY: LaGuardia"
+    },
+    "Time": {
+      "Label": "2003/07",
+      "Month": 7,
+      "Month Name": "July",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 336,
+        "Late Aircraft": 434,
+        "National Aviation System": 1060,
+        "Security": 0,
+        "Weather": 105
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,AirTran Airways Corporation,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 11
+      },
+      "Flights": {
+        "Cancelled": 285,
+        "Delayed": 1934,
+        "Diverted": 63,
+        "On Time": 7012,
+        "Total": 9294
+      },
+      "Minutes Delayed": {
+        "Carrier": 20643,
+        "Late Aircraft": 27725,
+        "National Aviation System": 61204,
+        "Security": 12,
+        "Total": 117366,
+        "Weather": 7782
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "MCO",
+      "Name": "Orlando, FL: Orlando International"
+    },
+    "Time": {
+      "Label": "2003/07",
+      "Month": 7,
+      "Month Name": "July",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 451,
+        "Late Aircraft": 519,
+        "National Aviation System": 797,
+        "Security": 3,
+        "Weather": 63
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Delta Air Lines Inc.,AirTran Airways Corporation,America West Airlines Inc.,Northwest Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 12
+      },
+      "Flights": {
+        "Cancelled": 19,
+        "Delayed": 1834,
+        "Diverted": 10,
+        "On Time": 6163,
+        "Total": 8026
+      },
+      "Minutes Delayed": {
+        "Carrier": 24063,
+        "Late Aircraft": 34566,
+        "National Aviation System": 32395,
+        "Security": 60,
+        "Total": 95295,
+        "Weather": 4211
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "MDW",
+      "Name": "Chicago, IL: Chicago Midway International"
+    },
+    "Time": {
+      "Label": "2003/07",
+      "Month": 7,
+      "Month Name": "July",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 236,
+        "Late Aircraft": 559,
+        "National Aviation System": 637,
+        "Security": 14,
+        "Weather": 86
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,AirTran Airways Corporation,Northwest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,Southwest Airlines Co.",
+        "Total": 9
+      },
+      "Flights": {
+        "Cancelled": 62,
+        "Delayed": 1531,
+        "Diverted": 51,
+        "On Time": 5655,
+        "Total": 7299
+      },
+      "Minutes Delayed": {
+        "Carrier": 13792,
+        "Late Aircraft": 38121,
+        "National Aviation System": 35400,
+        "Security": 370,
+        "Total": 95992,
+        "Weather": 8309
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "MIA",
+      "Name": "Miami, FL: Miami International"
+    },
+    "Time": {
+      "Label": "2003/07",
+      "Month": 7,
+      "Month Name": "July",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 315,
+        "Late Aircraft": 268,
+        "National Aviation System": 588,
+        "Security": 4,
+        "Weather": 41
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,Continental Air Lines Inc.,Delta Air Lines Inc.,AirTran Airways Corporation,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 12
+      },
+      "Flights": {
+        "Cancelled": 44,
+        "Delayed": 1216,
+        "Diverted": 17,
+        "On Time": 3849,
+        "Total": 5126
+      },
+      "Minutes Delayed": {
+        "Carrier": 20847,
+        "Late Aircraft": 19233,
+        "National Aviation System": 22787,
+        "Security": 121,
+        "Total": 66719,
+        "Weather": 3731
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "MSP",
+      "Name": "Minneapolis, MN: Minneapolis-St Paul International"
+    },
+    "Time": {
+      "Label": "2003/07",
+      "Month": 7,
+      "Month Name": "July",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 531,
+        "Late Aircraft": 428,
+        "National Aviation System": 860,
+        "Security": 6,
+        "Weather": 108
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Continental Air Lines Inc.,Delta Air Lines Inc.,AirTran Airways Corporation,America West Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 11
+      },
+      "Flights": {
+        "Cancelled": 141,
+        "Delayed": 1930,
+        "Diverted": 13,
+        "On Time": 10766,
+        "Total": 12850
+      },
+      "Minutes Delayed": {
+        "Carrier": 33129,
+        "Late Aircraft": 28529,
+        "National Aviation System": 32299,
+        "Security": 153,
+        "Total": 102280,
+        "Weather": 8170
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "ORD",
+      "Name": "Chicago, IL: Chicago O'Hare International"
+    },
+    "Time": {
+      "Label": "2003/07",
+      "Month": 7,
+      "Month Name": "July",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 961,
+        "Late Aircraft": 1728,
+        "National Aviation System": 4305,
+        "Security": 8,
+        "Weather": 258
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,Atlantic Southeast Airlines,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,United Air Lines Inc.,US Airways Inc.",
+        "Total": 12
+      },
+      "Flights": {
+        "Cancelled": 1258,
+        "Delayed": 7259,
+        "Diverted": 135,
+        "On Time": 22693,
+        "Total": 31345
+      },
+      "Minutes Delayed": {
+        "Carrier": 75266,
+        "Late Aircraft": 137519,
+        "National Aviation System": 314331,
+        "Security": 201,
+        "Total": 551568,
+        "Weather": 24251
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "PDX",
+      "Name": "Portland, OR: Portland International"
+    },
+    "Time": {
+      "Label": "2003/07",
+      "Month": 7,
+      "Month Name": "July",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 224,
+        "Late Aircraft": 332,
+        "National Aviation System": 126,
+        "Security": 7,
+        "Weather": 26
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,Continental Air Lines Inc.,Delta Air Lines Inc.,America West Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,United Air Lines Inc.,Southwest Airlines Co.",
+        "Total": 9
+      },
+      "Flights": {
+        "Cancelled": 25,
+        "Delayed": 716,
+        "Diverted": 2,
+        "On Time": 4273,
+        "Total": 5016
+      },
+      "Minutes Delayed": {
+        "Carrier": 10823,
+        "Late Aircraft": 19298,
+        "National Aviation System": 4604,
+        "Security": 180,
+        "Total": 36851,
+        "Weather": 1946
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "PHL",
+      "Name": "Philadelphia, PA: Philadelphia International"
+    },
+    "Time": {
+      "Label": "2003/07",
+      "Month": 7,
+      "Month Name": "July",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 399,
+        "Late Aircraft": 634,
+        "National Aviation System": 1130,
+        "Security": 1,
+        "Weather": 93
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,AirTran Airways Corporation,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 12
+      },
+      "Flights": {
+        "Cancelled": 198,
+        "Delayed": 2257,
+        "Diverted": 21,
+        "On Time": 6876,
+        "Total": 9352
+      },
+      "Minutes Delayed": {
+        "Carrier": 19469,
+        "Late Aircraft": 41424,
+        "National Aviation System": 52527,
+        "Security": 15,
+        "Total": 121153,
+        "Weather": 7718
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "PHX",
+      "Name": "Phoenix, AZ: Phoenix Sky Harbor International"
+    },
+    "Time": {
+      "Label": "2003/07",
+      "Month": 7,
+      "Month Name": "July",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 593,
+        "Late Aircraft": 743,
+        "National Aviation System": 498,
+        "Security": 8,
+        "Weather": 66
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,Continental Air Lines Inc.,Delta Air Lines Inc.,America West Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 12
+      },
+      "Flights": {
+        "Cancelled": 96,
+        "Delayed": 1909,
+        "Diverted": 27,
+        "On Time": 12378,
+        "Total": 14410
+      },
+      "Minutes Delayed": {
+        "Carrier": 35809,
+        "Late Aircraft": 46071,
+        "National Aviation System": 18713,
+        "Security": 181,
+        "Total": 105513,
+        "Weather": 4739
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "SAN",
+      "Name": "San Diego, CA: San Diego International"
+    },
+    "Time": {
+      "Label": "2003/07",
+      "Month": 7,
+      "Month Name": "July",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 381,
+        "Late Aircraft": 386,
+        "National Aviation System": 340,
+        "Security": 3,
+        "Weather": 44
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Delta Air Lines Inc.,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 12
+      },
+      "Flights": {
+        "Cancelled": 34,
+        "Delayed": 1155,
+        "Diverted": 14,
+        "On Time": 5974,
+        "Total": 7177
+      },
+      "Minutes Delayed": {
+        "Carrier": 17465,
+        "Late Aircraft": 21781,
+        "National Aviation System": 12051,
+        "Security": 83,
+        "Total": 54624,
+        "Weather": 3244
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "SEA",
+      "Name": "Seattle, WA: Seattle/Tacoma International"
+    },
+    "Time": {
+      "Label": "2003/07",
+      "Month": 7,
+      "Month Name": "July",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 506,
+        "Late Aircraft": 637,
+        "National Aviation System": 421,
+        "Security": 26,
+        "Weather": 67
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Delta Air Lines Inc.,America West Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 12
+      },
+      "Flights": {
+        "Cancelled": 82,
+        "Delayed": 1654,
+        "Diverted": 5,
+        "On Time": 8251,
+        "Total": 9992
+      },
+      "Minutes Delayed": {
+        "Carrier": 25125,
+        "Late Aircraft": 37050,
+        "National Aviation System": 15618,
+        "Security": 631,
+        "Total": 83220,
+        "Weather": 4796
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "SFO",
+      "Name": "San Francisco, CA: San Francisco International"
+    },
+    "Time": {
+      "Label": "2003/07",
+      "Month": 7,
+      "Month Name": "July",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 473,
+        "Late Aircraft": 365,
+        "National Aviation System": 539,
+        "Security": 10,
+        "Weather": 76
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,Continental Air Lines Inc.,Delta Air Lines Inc.,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 11
+      },
+      "Flights": {
+        "Cancelled": 79,
+        "Delayed": 1464,
+        "Diverted": 8,
+        "On Time": 9192,
+        "Total": 10743
+      },
+      "Minutes Delayed": {
+        "Carrier": 24613,
+        "Late Aircraft": 24504,
+        "National Aviation System": 23592,
+        "Security": 261,
+        "Total": 79460,
+        "Weather": 6490
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "SLC",
+      "Name": "Salt Lake City, UT: Salt Lake City International"
+    },
+    "Time": {
+      "Label": "2003/07",
+      "Month": 7,
+      "Month Name": "July",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 404,
+        "Late Aircraft": 284,
+        "National Aviation System": 330,
+        "Security": 9,
+        "Weather": 65
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Delta Air Lines Inc.,Atlantic Southeast Airlines,America West Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,United Air Lines Inc.,Southwest Airlines Co.",
+        "Total": 10
+      },
+      "Flights": {
+        "Cancelled": 58,
+        "Delayed": 1093,
+        "Diverted": 11,
+        "On Time": 9782,
+        "Total": 10944
+      },
+      "Minutes Delayed": {
+        "Carrier": 20318,
+        "Late Aircraft": 16143,
+        "National Aviation System": 11910,
+        "Security": 285,
+        "Total": 52635,
+        "Weather": 3979
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "TPA",
+      "Name": "Tampa, FL: Tampa International"
+    },
+    "Time": {
+      "Label": "2003/07",
+      "Month": 7,
+      "Month Name": "July",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 248,
+        "Late Aircraft": 395,
+        "National Aviation System": 445,
+        "Security": 3,
+        "Weather": 44
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Delta Air Lines Inc.,AirTran Airways Corporation,America West Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 11
+      },
+      "Flights": {
+        "Cancelled": 18,
+        "Delayed": 1135,
+        "Diverted": 9,
+        "On Time": 4452,
+        "Total": 5614
+      },
+      "Minutes Delayed": {
+        "Carrier": 12661,
+        "Late Aircraft": 26212,
+        "National Aviation System": 18532,
+        "Security": 73,
+        "Total": 60777,
+        "Weather": 3299
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "ATL",
+      "Name": "Atlanta, GA: Hartsfield-Jackson Atlanta International"
+    },
+    "Time": {
+      "Label": "2003/08",
+      "Month": 8,
+      "Month Name": "August",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 1220,
+        "Late Aircraft": 1766,
+        "National Aviation System": 4475,
+        "Security": 9,
+        "Weather": 361
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Delta Air Lines Inc.,Atlantic Southeast Airlines,AirTran Airways Corporation,America West Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,United Air Lines Inc.,US Airways Inc.",
+        "Total": 11
+      },
+      "Flights": {
+        "Cancelled": 364,
+        "Delayed": 7829,
+        "Diverted": 56,
+        "On Time": 23056,
+        "Total": 31305
+      },
+      "Minutes Delayed": {
+        "Carrier": 77042,
+        "Late Aircraft": 108114,
+        "National Aviation System": 163912,
+        "Security": 304,
+        "Total": 370130,
+        "Weather": 20758
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "BOS",
+      "Name": "Boston, MA: Logan International"
+    },
+    "Time": {
+      "Label": "2003/08",
+      "Month": 8,
+      "Month Name": "August",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 481,
+        "Late Aircraft": 698,
+        "National Aviation System": 978,
+        "Security": 0,
+        "Weather": 100
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,Atlantic Southeast Airlines,AirTran Airways Corporation,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 14
+      },
+      "Flights": {
+        "Cancelled": 292,
+        "Delayed": 2256,
+        "Diverted": 15,
+        "On Time": 7370,
+        "Total": 9933
+      },
+      "Minutes Delayed": {
+        "Carrier": 28571,
+        "Late Aircraft": 49297,
+        "National Aviation System": 42254,
+        "Security": 4,
+        "Total": 127494,
+        "Weather": 7368
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "BWI",
+      "Name": "Baltimore, MD: Baltimore/Washington International Thurgood Marshall"
+    },
+    "Time": {
+      "Label": "2003/08",
+      "Month": 8,
+      "Month Name": "August",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 396,
+        "Late Aircraft": 668,
+        "National Aviation System": 734,
+        "Security": 6,
+        "Weather": 127
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Continental Air Lines Inc.,Delta Air Lines Inc.,AirTran Airways Corporation,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 11
+      },
+      "Flights": {
+        "Cancelled": 66,
+        "Delayed": 1931,
+        "Diverted": 41,
+        "On Time": 6598,
+        "Total": 8636
+      },
+      "Minutes Delayed": {
+        "Carrier": 19817,
+        "Late Aircraft": 41456,
+        "National Aviation System": 36608,
+        "Security": 179,
+        "Total": 107756,
+        "Weather": 9696
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "CLT",
+      "Name": "Charlotte, NC: Charlotte Douglas International"
+    },
+    "Time": {
+      "Label": "2003/08",
+      "Month": 8,
+      "Month Name": "August",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 349,
+        "Late Aircraft": 511,
+        "National Aviation System": 928,
+        "Security": 1,
+        "Weather": 90
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,Atlantic Southeast Airlines,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 11
+      },
+      "Flights": {
+        "Cancelled": 189,
+        "Delayed": 1882,
+        "Diverted": 36,
+        "On Time": 6841,
+        "Total": 8948
+      },
+      "Minutes Delayed": {
+        "Carrier": 17440,
+        "Late Aircraft": 30964,
+        "National Aviation System": 38430,
+        "Security": 116,
+        "Total": 93619,
+        "Weather": 6669
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "DCA",
+      "Name": "Washington, DC: Ronald Reagan Washington National"
+    },
+    "Time": {
+      "Label": "2003/08",
+      "Month": 8,
+      "Month Name": "August",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 338,
+        "Late Aircraft": 327,
+        "National Aviation System": 795,
+        "Security": 3,
+        "Weather": 89
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,Atlantic Southeast Airlines,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 13
+      },
+      "Flights": {
+        "Cancelled": 262,
+        "Delayed": 1554,
+        "Diverted": 41,
+        "On Time": 4886,
+        "Total": 6743
+      },
+      "Minutes Delayed": {
+        "Carrier": 17512,
+        "Late Aircraft": 23603,
+        "National Aviation System": 42353,
+        "Security": 113,
+        "Total": 90097,
+        "Weather": 6516
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "DEN",
+      "Name": "Denver, CO: Denver International"
+    },
+    "Time": {
+      "Label": "2003/08",
+      "Month": 8,
+      "Month Name": "August",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 544,
+        "Late Aircraft": 362,
+        "National Aviation System": 560,
+        "Security": 3,
+        "Weather": 111
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Delta Air Lines Inc.,AirTran Airways Corporation,America West Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 12
+      },
+      "Flights": {
+        "Cancelled": 79,
+        "Delayed": 1582,
+        "Diverted": 9,
+        "On Time": 11122,
+        "Total": 12792
+      },
+      "Minutes Delayed": {
+        "Carrier": 30247,
+        "Late Aircraft": 25493,
+        "National Aviation System": 23385,
+        "Security": 77,
+        "Total": 87032,
+        "Weather": 7830
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "DFW",
+      "Name": "Dallas/Fort Worth, TX: Dallas/Fort Worth International"
+    },
+    "Time": {
+      "Label": "2003/08",
+      "Month": 8,
+      "Month Name": "August",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 1178,
+        "Late Aircraft": 1350,
+        "National Aviation System": 2138,
+        "Security": 17,
+        "Weather": 269
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Continental Air Lines Inc.,Delta Air Lines Inc.,Atlantic Southeast Airlines,AirTran Airways Corporation,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 13
+      },
+      "Flights": {
+        "Cancelled": 466,
+        "Delayed": 4951,
+        "Diverted": 169,
+        "On Time": 22370,
+        "Total": 27956
+      },
+      "Minutes Delayed": {
+        "Carrier": 77082,
+        "Late Aircraft": 80115,
+        "National Aviation System": 106597,
+        "Security": 526,
+        "Total": 286661,
+        "Weather": 22341
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "DTW",
+      "Name": "Detroit, MI: Detroit Metro Wayne County"
+    },
+    "Time": {
+      "Label": "2003/08",
+      "Month": 8,
+      "Month Name": "August",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 459,
+        "Late Aircraft": 442,
+        "National Aviation System": 1034,
+        "Security": 6,
+        "Weather": 155
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,Atlantic Southeast Airlines,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 12
+      },
+      "Flights": {
+        "Cancelled": 412,
+        "Delayed": 2096,
+        "Diverted": 52,
+        "On Time": 9620,
+        "Total": 12180
+      },
+      "Minutes Delayed": {
+        "Carrier": 29306,
+        "Late Aircraft": 27485,
+        "National Aviation System": 46410,
+        "Security": 293,
+        "Total": 116543,
+        "Weather": 13049
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "EWR",
+      "Name": "Newark, NJ: Newark Liberty International"
+    },
+    "Time": {
+      "Label": "2003/08",
+      "Month": 8,
+      "Month Name": "August",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 488,
+        "Late Aircraft": 713,
+        "National Aviation System": 2528,
+        "Security": 7,
+        "Weather": 144
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,AirTran Airways Corporation,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 13
+      },
+      "Flights": {
+        "Cancelled": 431,
+        "Delayed": 3881,
+        "Diverted": 111,
+        "On Time": 8599,
+        "Total": 13022
+      },
+      "Minutes Delayed": {
+        "Carrier": 36683,
+        "Late Aircraft": 56753,
+        "National Aviation System": 180746,
+        "Security": 177,
+        "Total": 289106,
+        "Weather": 14747
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "FLL",
+      "Name": "Fort Lauderdale, FL: Fort Lauderdale-Hollywood International"
+    },
+    "Time": {
+      "Label": "2003/08",
+      "Month": 8,
+      "Month Name": "August",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 279,
+        "Late Aircraft": 396,
+        "National Aviation System": 489,
+        "Security": 9,
+        "Weather": 46
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Delta Air Lines Inc.,AirTran Airways Corporation,America West Airlines Inc.,Northwest Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 11
+      },
+      "Flights": {
+        "Cancelled": 36,
+        "Delayed": 1220,
+        "Diverted": 14,
+        "On Time": 3555,
+        "Total": 4825
+      },
+      "Minutes Delayed": {
+        "Carrier": 15853,
+        "Late Aircraft": 25824,
+        "National Aviation System": 18216,
+        "Security": 334,
+        "Total": 63559,
+        "Weather": 3332
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "IAD",
+      "Name": "Washington, DC: Washington Dulles International"
+    },
+    "Time": {
+      "Label": "2003/08",
+      "Month": 8,
+      "Month Name": "August",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 378,
+        "Late Aircraft": 447,
+        "National Aviation System": 849,
+        "Security": 9,
+        "Weather": 129
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,AirTran Airways Corporation,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,United Air Lines Inc.,US Airways Inc.",
+        "Total": 13
+      },
+      "Flights": {
+        "Cancelled": 190,
+        "Delayed": 1813,
+        "Diverted": 40,
+        "On Time": 6715,
+        "Total": 8758
+      },
+      "Minutes Delayed": {
+        "Carrier": 21505,
+        "Late Aircraft": 30744,
+        "National Aviation System": 43185,
+        "Security": 295,
+        "Total": 106819,
+        "Weather": 11090
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "IAH",
+      "Name": "Houston, TX: George Bush Intercontinental/Houston"
+    },
+    "Time": {
+      "Label": "2003/08",
+      "Month": 8,
+      "Month Name": "August",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 425,
+        "Late Aircraft": 587,
+        "National Aviation System": 1132,
+        "Security": 5,
+        "Weather": 144
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Continental Air Lines Inc.,Delta Air Lines Inc.,Atlantic Southeast Airlines,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,ExpressJet Airlines Inc.,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 12
+      },
+      "Flights": {
+        "Cancelled": 104,
+        "Delayed": 2291,
+        "Diverted": 68,
+        "On Time": 13522,
+        "Total": 15985
+      },
+      "Minutes Delayed": {
+        "Carrier": 26927,
+        "Late Aircraft": 38093,
+        "National Aviation System": 48296,
+        "Security": 183,
+        "Total": 125085,
+        "Weather": 11586
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "JFK",
+      "Name": "New York, NY: John F. Kennedy International"
+    },
+    "Time": {
+      "Label": "2003/08",
+      "Month": 8,
+      "Month Name": "August",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 403,
+        "Late Aircraft": 380,
+        "National Aviation System": 856,
+        "Security": 15,
+        "Weather": 64
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,Atlantic Southeast Airlines,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,United Air Lines Inc.",
+        "Total": 11
+      },
+      "Flights": {
+        "Cancelled": 205,
+        "Delayed": 1717,
+        "Diverted": 66,
+        "On Time": 4239,
+        "Total": 6227
+      },
+      "Minutes Delayed": {
+        "Carrier": 28257,
+        "Late Aircraft": 29338,
+        "National Aviation System": 42732,
+        "Security": 401,
+        "Total": 105234,
+        "Weather": 4506
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "LAS",
+      "Name": "Las Vegas, NV: McCarran International"
+    },
+    "Time": {
+      "Label": "2003/08",
+      "Month": 8,
+      "Month Name": "August",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 576,
+        "Late Aircraft": 747,
+        "National Aviation System": 480,
+        "Security": 7,
+        "Weather": 75
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Delta Air Lines Inc.,America West Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 12
+      },
+      "Flights": {
+        "Cancelled": 70,
+        "Delayed": 1884,
+        "Diverted": 10,
+        "On Time": 10293,
+        "Total": 12257
+      },
+      "Minutes Delayed": {
+        "Carrier": 34285,
+        "Late Aircraft": 38636,
+        "National Aviation System": 17699,
+        "Security": 231,
+        "Total": 97026,
+        "Weather": 6175
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "LAX",
+      "Name": "Los Angeles, CA: Los Angeles International"
+    },
+    "Time": {
+      "Label": "2003/08",
+      "Month": 8,
+      "Month Name": "August",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 796,
+        "Late Aircraft": 761,
+        "National Aviation System": 622,
+        "Security": 11,
+        "Weather": 139
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,Continental Air Lines Inc.,Delta Air Lines Inc.,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 12
+      },
+      "Flights": {
+        "Cancelled": 141,
+        "Delayed": 2333,
+        "Diverted": 9,
+        "On Time": 16770,
+        "Total": 19253
+      },
+      "Minutes Delayed": {
+        "Carrier": 47486,
+        "Late Aircraft": 46658,
+        "National Aviation System": 26226,
+        "Security": 336,
+        "Total": 131186,
+        "Weather": 10480
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "LGA",
+      "Name": "New York, NY: LaGuardia"
+    },
+    "Time": {
+      "Label": "2003/08",
+      "Month": 8,
+      "Month Name": "August",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 419,
+        "Late Aircraft": 500,
+        "National Aviation System": 1421,
+        "Security": 1,
+        "Weather": 125
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,AirTran Airways Corporation,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 11
+      },
+      "Flights": {
+        "Cancelled": 597,
+        "Delayed": 2465,
+        "Diverted": 82,
+        "On Time": 6158,
+        "Total": 9302
+      },
+      "Minutes Delayed": {
+        "Carrier": 26770,
+        "Late Aircraft": 38198,
+        "National Aviation System": 102604,
+        "Security": 15,
+        "Total": 180002,
+        "Weather": 12415
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "MCO",
+      "Name": "Orlando, FL: Orlando International"
+    },
+    "Time": {
+      "Label": "2003/08",
+      "Month": 8,
+      "Month Name": "August",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 450,
+        "Late Aircraft": 584,
+        "National Aviation System": 757,
+        "Security": 6,
+        "Weather": 82
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Delta Air Lines Inc.,Atlantic Southeast Airlines,AirTran Airways Corporation,America West Airlines Inc.,Northwest Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 13
+      },
+      "Flights": {
+        "Cancelled": 48,
+        "Delayed": 1878,
+        "Diverted": 30,
+        "On Time": 6032,
+        "Total": 7988
+      },
+      "Minutes Delayed": {
+        "Carrier": 25260,
+        "Late Aircraft": 38574,
+        "National Aviation System": 31786,
+        "Security": 454,
+        "Total": 101540,
+        "Weather": 5466
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "MDW",
+      "Name": "Chicago, IL: Chicago Midway International"
+    },
+    "Time": {
+      "Label": "2003/08",
+      "Month": 8,
+      "Month Name": "August",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 205,
+        "Late Aircraft": 446,
+        "National Aviation System": 414,
+        "Security": 15,
+        "Weather": 72
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,AirTran Airways Corporation,Northwest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,Southwest Airlines Co.",
+        "Total": 9
+      },
+      "Flights": {
+        "Cancelled": 77,
+        "Delayed": 1152,
+        "Diverted": 13,
+        "On Time": 6035,
+        "Total": 7277
+      },
+      "Minutes Delayed": {
+        "Carrier": 10853,
+        "Late Aircraft": 28232,
+        "National Aviation System": 21868,
+        "Security": 578,
+        "Total": 68622,
+        "Weather": 7091
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "MIA",
+      "Name": "Miami, FL: Miami International"
+    },
+    "Time": {
+      "Label": "2003/08",
+      "Month": 8,
+      "Month Name": "August",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 293,
+        "Late Aircraft": 314,
+        "National Aviation System": 696,
+        "Security": 10,
+        "Weather": 70
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,Continental Air Lines Inc.,Delta Air Lines Inc.,Atlantic Southeast Airlines,AirTran Airways Corporation,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 13
+      },
+      "Flights": {
+        "Cancelled": 97,
+        "Delayed": 1385,
+        "Diverted": 13,
+        "On Time": 3663,
+        "Total": 5158
+      },
+      "Minutes Delayed": {
+        "Carrier": 18544,
+        "Late Aircraft": 24339,
+        "National Aviation System": 30059,
+        "Security": 306,
+        "Total": 78097,
+        "Weather": 4849
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "MSP",
+      "Name": "Minneapolis, MN: Minneapolis-St Paul International"
+    },
+    "Time": {
+      "Label": "2003/08",
+      "Month": 8,
+      "Month Name": "August",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 533,
+        "Late Aircraft": 438,
+        "National Aviation System": 639,
+        "Security": 9,
+        "Weather": 104
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Continental Air Lines Inc.,Delta Air Lines Inc.,AirTran Airways Corporation,America West Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 11
+      },
+      "Flights": {
+        "Cancelled": 182,
+        "Delayed": 1724,
+        "Diverted": 6,
+        "On Time": 10975,
+        "Total": 12887
+      },
+      "Minutes Delayed": {
+        "Carrier": 36711,
+        "Late Aircraft": 26224,
+        "National Aviation System": 22843,
+        "Security": 294,
+        "Total": 93346,
+        "Weather": 7274
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "ORD",
+      "Name": "Chicago, IL: Chicago O'Hare International"
+    },
+    "Time": {
+      "Label": "2003/08",
+      "Month": 8,
+      "Month Name": "August",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 1017,
+        "Late Aircraft": 1512,
+        "National Aviation System": 3461,
+        "Security": 12,
+        "Weather": 237
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,Atlantic Southeast Airlines,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,United Air Lines Inc.,US Airways Inc.",
+        "Total": 12
+      },
+      "Flights": {
+        "Cancelled": 941,
+        "Delayed": 6236,
+        "Diverted": 138,
+        "On Time": 23806,
+        "Total": 31121
+      },
+      "Minutes Delayed": {
+        "Carrier": 77366,
+        "Late Aircraft": 109807,
+        "National Aviation System": 237540,
+        "Security": 430,
+        "Total": 447656,
+        "Weather": 22513
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "PDX",
+      "Name": "Portland, OR: Portland International"
+    },
+    "Time": {
+      "Label": "2003/08",
+      "Month": 8,
+      "Month Name": "August",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 194,
+        "Late Aircraft": 336,
+        "National Aviation System": 128,
+        "Security": 5,
+        "Weather": 29
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,Continental Air Lines Inc.,Delta Air Lines Inc.,America West Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,United Air Lines Inc.,Southwest Airlines Co.",
+        "Total": 9
+      },
+      "Flights": {
+        "Cancelled": 26,
+        "Delayed": 693,
+        "Diverted": 4,
+        "On Time": 4249,
+        "Total": 4972
+      },
+      "Minutes Delayed": {
+        "Carrier": 9713,
+        "Late Aircraft": 18118,
+        "National Aviation System": 4683,
+        "Security": 148,
+        "Total": 34824,
+        "Weather": 2162
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "PHL",
+      "Name": "Philadelphia, PA: Philadelphia International"
+    },
+    "Time": {
+      "Label": "2003/08",
+      "Month": 8,
+      "Month Name": "August",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 442,
+        "Late Aircraft": 695,
+        "National Aviation System": 1317,
+        "Security": 0,
+        "Weather": 132
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,Atlantic Southeast Airlines,AirTran Airways Corporation,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 13
+      },
+      "Flights": {
+        "Cancelled": 242,
+        "Delayed": 2590,
+        "Diverted": 31,
+        "On Time": 6527,
+        "Total": 9390
+      },
+      "Minutes Delayed": {
+        "Carrier": 22519,
+        "Late Aircraft": 44213,
+        "National Aviation System": 65862,
+        "Security": 0,
+        "Total": 143224,
+        "Weather": 10630
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "PHX",
+      "Name": "Phoenix, AZ: Phoenix Sky Harbor International"
+    },
+    "Time": {
+      "Label": "2003/08",
+      "Month": 8,
+      "Month Name": "August",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 607,
+        "Late Aircraft": 719,
+        "National Aviation System": 509,
+        "Security": 20,
+        "Weather": 87
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,Continental Air Lines Inc.,Delta Air Lines Inc.,America West Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 12
+      },
+      "Flights": {
+        "Cancelled": 117,
+        "Delayed": 1942,
+        "Diverted": 14,
+        "On Time": 12284,
+        "Total": 14357
+      },
+      "Minutes Delayed": {
+        "Carrier": 35681,
+        "Late Aircraft": 39053,
+        "National Aviation System": 17893,
+        "Security": 840,
+        "Total": 99568,
+        "Weather": 6101
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "SAN",
+      "Name": "San Diego, CA: San Diego International"
+    },
+    "Time": {
+      "Label": "2003/08",
+      "Month": 8,
+      "Month Name": "August",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 375,
+        "Late Aircraft": 382,
+        "National Aviation System": 256,
+        "Security": 2,
+        "Weather": 48
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Delta Air Lines Inc.,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 12
+      },
+      "Flights": {
+        "Cancelled": 27,
+        "Delayed": 1062,
+        "Diverted": 5,
+        "On Time": 6105,
+        "Total": 7199
+      },
+      "Minutes Delayed": {
+        "Carrier": 18544,
+        "Late Aircraft": 20569,
+        "National Aviation System": 9091,
+        "Security": 84,
+        "Total": 51666,
+        "Weather": 3378
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "SEA",
+      "Name": "Seattle, WA: Seattle/Tacoma International"
+    },
+    "Time": {
+      "Label": "2003/08",
+      "Month": 8,
+      "Month Name": "August",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 482,
+        "Late Aircraft": 730,
+        "National Aviation System": 364,
+        "Security": 24,
+        "Weather": 57
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Delta Air Lines Inc.,America West Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 12
+      },
+      "Flights": {
+        "Cancelled": 113,
+        "Delayed": 1661,
+        "Diverted": 12,
+        "On Time": 8229,
+        "Total": 10015
+      },
+      "Minutes Delayed": {
+        "Carrier": 27105,
+        "Late Aircraft": 41966,
+        "National Aviation System": 13662,
+        "Security": 839,
+        "Total": 87912,
+        "Weather": 4340
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "SFO",
+      "Name": "San Francisco, CA: San Francisco International"
+    },
+    "Time": {
+      "Label": "2003/08",
+      "Month": 8,
+      "Month Name": "August",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 517,
+        "Late Aircraft": 385,
+        "National Aviation System": 869,
+        "Security": 10,
+        "Weather": 94
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,Continental Air Lines Inc.,Delta Air Lines Inc.,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 11
+      },
+      "Flights": {
+        "Cancelled": 96,
+        "Delayed": 1876,
+        "Diverted": 5,
+        "On Time": 8755,
+        "Total": 10732
+      },
+      "Minutes Delayed": {
+        "Carrier": 28598,
+        "Late Aircraft": 27313,
+        "National Aviation System": 36056,
+        "Security": 307,
+        "Total": 99292,
+        "Weather": 7018
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "SLC",
+      "Name": "Salt Lake City, UT: Salt Lake City International"
+    },
+    "Time": {
+      "Label": "2003/08",
+      "Month": 8,
+      "Month Name": "August",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 440,
+        "Late Aircraft": 326,
+        "National Aviation System": 381,
+        "Security": 15,
+        "Weather": 112
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Delta Air Lines Inc.,Atlantic Southeast Airlines,America West Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,United Air Lines Inc.,Southwest Airlines Co.",
+        "Total": 10
+      },
+      "Flights": {
+        "Cancelled": 74,
+        "Delayed": 1271,
+        "Diverted": 28,
+        "On Time": 9626,
+        "Total": 10999
+      },
+      "Minutes Delayed": {
+        "Carrier": 23058,
+        "Late Aircraft": 16936,
+        "National Aviation System": 13330,
+        "Security": 596,
+        "Total": 64430,
+        "Weather": 10510
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "TPA",
+      "Name": "Tampa, FL: Tampa International"
+    },
+    "Time": {
+      "Label": "2003/08",
+      "Month": 8,
+      "Month Name": "August",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 265,
+        "Late Aircraft": 350,
+        "National Aviation System": 450,
+        "Security": 2,
+        "Weather": 61
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Delta Air Lines Inc.,Atlantic Southeast Airlines,AirTran Airways Corporation,America West Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 12
+      },
+      "Flights": {
+        "Cancelled": 37,
+        "Delayed": 1129,
+        "Diverted": 19,
+        "On Time": 4317,
+        "Total": 5502
+      },
+      "Minutes Delayed": {
+        "Carrier": 15252,
+        "Late Aircraft": 24242,
+        "National Aviation System": 19501,
+        "Security": 80,
+        "Total": 63084,
+        "Weather": 4009
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "ATL",
+      "Name": "Atlanta, GA: Hartsfield-Jackson Atlanta International"
+    },
+    "Time": {
+      "Label": "2003/09",
+      "Month": 9,
+      "Month Name": "September",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 700,
+        "Late Aircraft": 807,
+        "National Aviation System": 2267,
+        "Security": 4,
+        "Weather": 161
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Delta Air Lines Inc.,Atlantic Southeast Airlines,AirTran Airways Corporation,America West Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,United Air Lines Inc.,US Airways Inc.",
+        "Total": 11
+      },
+      "Flights": {
+        "Cancelled": 359,
+        "Delayed": 3936,
+        "Diverted": 33,
+        "On Time": 26049,
+        "Total": 30377
+      },
+      "Minutes Delayed": {
+        "Carrier": 45856,
+        "Late Aircraft": 42031,
+        "National Aviation System": 82737,
+        "Security": 180,
+        "Total": 180656,
+        "Weather": 9852
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "BOS",
+      "Name": "Boston, MA: Logan International"
+    },
+    "Time": {
+      "Label": "2003/09",
+      "Month": 9,
+      "Month Name": "September",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 287,
+        "Late Aircraft": 413,
+        "National Aviation System": 675,
+        "Security": 1,
+        "Weather": 23
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,Atlantic Southeast Airlines,AirTran Airways Corporation,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 14
+      },
+      "Flights": {
+        "Cancelled": 257,
+        "Delayed": 1398,
+        "Diverted": 13,
+        "On Time": 7860,
+        "Total": 9528
+      },
+      "Minutes Delayed": {
+        "Carrier": 16865,
+        "Late Aircraft": 22421,
+        "National Aviation System": 27189,
+        "Security": 45,
+        "Total": 68271,
+        "Weather": 1751
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "BWI",
+      "Name": "Baltimore, MD: Baltimore/Washington International Thurgood Marshall"
+    },
+    "Time": {
+      "Label": "2003/09",
+      "Month": 9,
+      "Month Name": "September",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 238,
+        "Late Aircraft": 289,
+        "National Aviation System": 358,
+        "Security": 2,
+        "Weather": 41
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Continental Air Lines Inc.,Delta Air Lines Inc.,AirTran Airways Corporation,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 11
+      },
+      "Flights": {
+        "Cancelled": 205,
+        "Delayed": 930,
+        "Diverted": 43,
+        "On Time": 7031,
+        "Total": 8209
+      },
+      "Minutes Delayed": {
+        "Carrier": 11225,
+        "Late Aircraft": 15028,
+        "National Aviation System": 13129,
+        "Security": 42,
+        "Total": 42472,
+        "Weather": 3048
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "CLT",
+      "Name": "Charlotte, NC: Charlotte Douglas International"
+    },
+    "Time": {
+      "Label": "2003/09",
+      "Month": 9,
+      "Month Name": "September",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 169,
+        "Late Aircraft": 271,
+        "National Aviation System": 475,
+        "Security": 0,
+        "Weather": 14
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,Atlantic Southeast Airlines,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 11
+      },
+      "Flights": {
+        "Cancelled": 145,
+        "Delayed": 929,
+        "Diverted": 1,
+        "On Time": 7399,
+        "Total": 8474
+      },
+      "Minutes Delayed": {
+        "Carrier": 8943,
+        "Late Aircraft": 13038,
+        "National Aviation System": 15857,
+        "Security": 22,
+        "Total": 38730,
+        "Weather": 870
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "DCA",
+      "Name": "Washington, DC: Ronald Reagan Washington National"
+    },
+    "Time": {
+      "Label": "2003/09",
+      "Month": 9,
+      "Month Name": "September",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 231,
+        "Late Aircraft": 161,
+        "National Aviation System": 470,
+        "Security": 1,
+        "Weather": 28
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,Atlantic Southeast Airlines,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 13
+      },
+      "Flights": {
+        "Cancelled": 354,
+        "Delayed": 894,
+        "Diverted": 29,
+        "On Time": 5230,
+        "Total": 6507
+      },
+      "Minutes Delayed": {
+        "Carrier": 11136,
+        "Late Aircraft": 8715,
+        "National Aviation System": 17771,
+        "Security": 145,
+        "Total": 39420,
+        "Weather": 1653
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "DEN",
+      "Name": "Denver, CO: Denver International"
+    },
+    "Time": {
+      "Label": "2003/09",
+      "Month": 9,
+      "Month Name": "September",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 319,
+        "Late Aircraft": 204,
+        "National Aviation System": 336,
+        "Security": 3,
+        "Weather": 41
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Delta Air Lines Inc.,AirTran Airways Corporation,America West Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 13
+      },
+      "Flights": {
+        "Cancelled": 50,
+        "Delayed": 900,
+        "Diverted": 6,
+        "On Time": 11120,
+        "Total": 12076
+      },
+      "Minutes Delayed": {
+        "Carrier": 17206,
+        "Late Aircraft": 9780,
+        "National Aviation System": 11566,
+        "Security": 117,
+        "Total": 41637,
+        "Weather": 2968
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "DFW",
+      "Name": "Dallas/Fort Worth, TX: Dallas/Fort Worth International"
+    },
+    "Time": {
+      "Label": "2003/09",
+      "Month": 9,
+      "Month Name": "September",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 654,
+        "Late Aircraft": 751,
+        "National Aviation System": 1027,
+        "Security": 2,
+        "Weather": 125
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Continental Air Lines Inc.,Delta Air Lines Inc.,Atlantic Southeast Airlines,AirTran Airways Corporation,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 13
+      },
+      "Flights": {
+        "Cancelled": 571,
+        "Delayed": 2562,
+        "Diverted": 97,
+        "On Time": 23815,
+        "Total": 27045
+      },
+      "Minutes Delayed": {
+        "Carrier": 41366,
+        "Late Aircraft": 45046,
+        "National Aviation System": 50091,
+        "Security": 55,
+        "Total": 151679,
+        "Weather": 15121
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "DTW",
+      "Name": "Detroit, MI: Detroit Metro Wayne County"
+    },
+    "Time": {
+      "Label": "2003/09",
+      "Month": 9,
+      "Month Name": "September",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 296,
+        "Late Aircraft": 236,
+        "National Aviation System": 562,
+        "Security": 1,
+        "Weather": 52
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,Atlantic Southeast Airlines,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 12
+      },
+      "Flights": {
+        "Cancelled": 144,
+        "Delayed": 1147,
+        "Diverted": 13,
+        "On Time": 10032,
+        "Total": 11336
+      },
+      "Minutes Delayed": {
+        "Carrier": 18882,
+        "Late Aircraft": 12584,
+        "National Aviation System": 17982,
+        "Security": 36,
+        "Total": 53533,
+        "Weather": 4049
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "EWR",
+      "Name": "Newark, NJ: Newark Liberty International"
+    },
+    "Time": {
+      "Label": "2003/09",
+      "Month": 9,
+      "Month Name": "September",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 247,
+        "Late Aircraft": 483,
+        "National Aviation System": 3818,
+        "Security": 2,
+        "Weather": 147
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,AirTran Airways Corporation,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 13
+      },
+      "Flights": {
+        "Cancelled": 596,
+        "Delayed": 4699,
+        "Diverted": 14,
+        "On Time": 6880,
+        "Total": 12189
+      },
+      "Minutes Delayed": {
+        "Carrier": 15809,
+        "Late Aircraft": 38281,
+        "National Aviation System": 231105,
+        "Security": 94,
+        "Total": 295779,
+        "Weather": 10490
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "FLL",
+      "Name": "Fort Lauderdale, FL: Fort Lauderdale-Hollywood International"
+    },
+    "Time": {
+      "Label": "2003/09",
+      "Month": 9,
+      "Month Name": "September",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 143,
+        "Late Aircraft": 164,
+        "National Aviation System": 385,
+        "Security": 1,
+        "Weather": 9
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Delta Air Lines Inc.,AirTran Airways Corporation,America West Airlines Inc.,Northwest Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 11
+      },
+      "Flights": {
+        "Cancelled": 35,
+        "Delayed": 701,
+        "Diverted": 3,
+        "On Time": 3884,
+        "Total": 4623
+      },
+      "Minutes Delayed": {
+        "Carrier": 7175,
+        "Late Aircraft": 9656,
+        "National Aviation System": 14175,
+        "Security": 32,
+        "Total": 31570,
+        "Weather": 532
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "IAD",
+      "Name": "Washington, DC: Washington Dulles International"
+    },
+    "Time": {
+      "Label": "2003/09",
+      "Month": 9,
+      "Month Name": "September",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 221,
+        "Late Aircraft": 241,
+        "National Aviation System": 470,
+        "Security": 1,
+        "Weather": 29
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,AirTran Airways Corporation,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,United Air Lines Inc.,US Airways Inc.",
+        "Total": 13
+      },
+      "Flights": {
+        "Cancelled": 320,
+        "Delayed": 966,
+        "Diverted": 20,
+        "On Time": 7113,
+        "Total": 8419
+      },
+      "Minutes Delayed": {
+        "Carrier": 11679,
+        "Late Aircraft": 14305,
+        "National Aviation System": 21596,
+        "Security": 14,
+        "Total": 50212,
+        "Weather": 2618
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "IAH",
+      "Name": "Houston, TX: George Bush Intercontinental/Houston"
+    },
+    "Time": {
+      "Label": "2003/09",
+      "Month": 9,
+      "Month Name": "September",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 291,
+        "Late Aircraft": 498,
+        "National Aviation System": 1094,
+        "Security": 5,
+        "Weather": 71
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Continental Air Lines Inc.,Delta Air Lines Inc.,Atlantic Southeast Airlines,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,ExpressJet Airlines Inc.,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 12
+      },
+      "Flights": {
+        "Cancelled": 107,
+        "Delayed": 1958,
+        "Diverted": 57,
+        "On Time": 13010,
+        "Total": 15132
+      },
+      "Minutes Delayed": {
+        "Carrier": 17168,
+        "Late Aircraft": 30323,
+        "National Aviation System": 40922,
+        "Security": 135,
+        "Total": 94286,
+        "Weather": 5738
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "JFK",
+      "Name": "New York, NY: John F. Kennedy International"
+    },
+    "Time": {
+      "Label": "2003/09",
+      "Month": 9,
+      "Month Name": "September",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 245,
+        "Late Aircraft": 159,
+        "National Aviation System": 473,
+        "Security": 3,
+        "Weather": 19
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,Atlantic Southeast Airlines,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,United Air Lines Inc.",
+        "Total": 11
+      },
+      "Flights": {
+        "Cancelled": 34,
+        "Delayed": 896,
+        "Diverted": 13,
+        "On Time": 4868,
+        "Total": 5811
+      },
+      "Minutes Delayed": {
+        "Carrier": 13176,
+        "Late Aircraft": 7732,
+        "National Aviation System": 14391,
+        "Security": 93,
+        "Total": 36388,
+        "Weather": 996
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "LAS",
+      "Name": "Las Vegas, NV: McCarran International"
+    },
+    "Time": {
+      "Label": "2003/09",
+      "Month": 9,
+      "Month Name": "September",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 374,
+        "Late Aircraft": 445,
+        "National Aviation System": 370,
+        "Security": 2,
+        "Weather": 18
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Delta Air Lines Inc.,America West Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 12
+      },
+      "Flights": {
+        "Cancelled": 68,
+        "Delayed": 1207,
+        "Diverted": 2,
+        "On Time": 10628,
+        "Total": 11905
+      },
+      "Minutes Delayed": {
+        "Carrier": 16643,
+        "Late Aircraft": 20772,
+        "National Aviation System": 12331,
+        "Security": 25,
+        "Total": 50816,
+        "Weather": 1045
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "LAX",
+      "Name": "Los Angeles, CA: Los Angeles International"
+    },
+    "Time": {
+      "Label": "2003/09",
+      "Month": 9,
+      "Month Name": "September",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 542,
+        "Late Aircraft": 416,
+        "National Aviation System": 479,
+        "Security": 6,
+        "Weather": 53
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,Continental Air Lines Inc.,Delta Air Lines Inc.,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 12
+      },
+      "Flights": {
+        "Cancelled": 171,
+        "Delayed": 1496,
+        "Diverted": 9,
+        "On Time": 16520,
+        "Total": 18196
+      },
+      "Minutes Delayed": {
+        "Carrier": 25779,
+        "Late Aircraft": 18960,
+        "National Aviation System": 15896,
+        "Security": 178,
+        "Total": 63767,
+        "Weather": 2954
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "LGA",
+      "Name": "New York, NY: LaGuardia"
+    },
+    "Time": {
+      "Label": "2003/09",
+      "Month": 9,
+      "Month Name": "September",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 223,
+        "Late Aircraft": 283,
+        "National Aviation System": 1099,
+        "Security": 0,
+        "Weather": 77
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,AirTran Airways Corporation,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 11
+      },
+      "Flights": {
+        "Cancelled": 341,
+        "Delayed": 1684,
+        "Diverted": 11,
+        "On Time": 6735,
+        "Total": 8771
+      },
+      "Minutes Delayed": {
+        "Carrier": 11733,
+        "Late Aircraft": 16588,
+        "National Aviation System": 57867,
+        "Security": 0,
+        "Total": 91015,
+        "Weather": 4827
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "MCO",
+      "Name": "Orlando, FL: Orlando International"
+    },
+    "Time": {
+      "Label": "2003/09",
+      "Month": 9,
+      "Month Name": "September",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 212,
+        "Late Aircraft": 250,
+        "National Aviation System": 371,
+        "Security": 1,
+        "Weather": 19
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Delta Air Lines Inc.,AirTran Airways Corporation,America West Airlines Inc.,Northwest Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 12
+      },
+      "Flights": {
+        "Cancelled": 63,
+        "Delayed": 857,
+        "Diverted": 9,
+        "On Time": 6219,
+        "Total": 7148
+      },
+      "Minutes Delayed": {
+        "Carrier": 10620,
+        "Late Aircraft": 13750,
+        "National Aviation System": 14734,
+        "Security": 25,
+        "Total": 40150,
+        "Weather": 1021
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "MDW",
+      "Name": "Chicago, IL: Chicago Midway International"
+    },
+    "Time": {
+      "Label": "2003/09",
+      "Month": 9,
+      "Month Name": "September",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 133,
+        "Late Aircraft": 259,
+        "National Aviation System": 224,
+        "Security": 2,
+        "Weather": 15
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,AirTran Airways Corporation,Northwest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,Southwest Airlines Co.",
+        "Total": 9
+      },
+      "Flights": {
+        "Cancelled": 70,
+        "Delayed": 632,
+        "Diverted": 9,
+        "On Time": 6509,
+        "Total": 7220
+      },
+      "Minutes Delayed": {
+        "Carrier": 6622,
+        "Late Aircraft": 13408,
+        "National Aviation System": 8075,
+        "Security": 34,
+        "Total": 29236,
+        "Weather": 1097
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "MIA",
+      "Name": "Miami, FL: Miami International"
+    },
+    "Time": {
+      "Label": "2003/09",
+      "Month": 9,
+      "Month Name": "September",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 156,
+        "Late Aircraft": 125,
+        "National Aviation System": 479,
+        "Security": 0,
+        "Weather": 25
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,Continental Air Lines Inc.,Delta Air Lines Inc.,AirTran Airways Corporation,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 12
+      },
+      "Flights": {
+        "Cancelled": 67,
+        "Delayed": 784,
+        "Diverted": 10,
+        "On Time": 3871,
+        "Total": 4732
+      },
+      "Minutes Delayed": {
+        "Carrier": 10455,
+        "Late Aircraft": 7536,
+        "National Aviation System": 18311,
+        "Security": 34,
+        "Total": 37924,
+        "Weather": 1588
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "MSP",
+      "Name": "Minneapolis, MN: Minneapolis-St Paul International"
+    },
+    "Time": {
+      "Label": "2003/09",
+      "Month": 9,
+      "Month Name": "September",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 317,
+        "Late Aircraft": 228,
+        "National Aviation System": 755,
+        "Security": 3,
+        "Weather": 90
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Continental Air Lines Inc.,Delta Air Lines Inc.,AirTran Airways Corporation,America West Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 11
+      },
+      "Flights": {
+        "Cancelled": 117,
+        "Delayed": 1390,
+        "Diverted": 13,
+        "On Time": 10023,
+        "Total": 11543
+      },
+      "Minutes Delayed": {
+        "Carrier": 21792,
+        "Late Aircraft": 12359,
+        "National Aviation System": 27675,
+        "Security": 64,
+        "Total": 67403,
+        "Weather": 5513
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "ORD",
+      "Name": "Chicago, IL: Chicago O'Hare International"
+    },
+    "Time": {
+      "Label": "2003/09",
+      "Month": 9,
+      "Month Name": "September",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 573,
+        "Late Aircraft": 892,
+        "National Aviation System": 3323,
+        "Security": 4,
+        "Weather": 99
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,Atlantic Southeast Airlines,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,United Air Lines Inc.,US Airways Inc.",
+        "Total": 12
+      },
+      "Flights": {
+        "Cancelled": 433,
+        "Delayed": 4889,
+        "Diverted": 31,
+        "On Time": 24285,
+        "Total": 29638
+      },
+      "Minutes Delayed": {
+        "Carrier": 36242,
+        "Late Aircraft": 49229,
+        "National Aviation System": 152057,
+        "Security": 77,
+        "Total": 243497,
+        "Weather": 5892
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "PDX",
+      "Name": "Portland, OR: Portland International"
+    },
+    "Time": {
+      "Label": "2003/09",
+      "Month": 9,
+      "Month Name": "September",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 133,
+        "Late Aircraft": 142,
+        "National Aviation System": 144,
+        "Security": 2,
+        "Weather": 6
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,Continental Air Lines Inc.,Delta Air Lines Inc.,America West Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,United Air Lines Inc.,Southwest Airlines Co.",
+        "Total": 9
+      },
+      "Flights": {
+        "Cancelled": 44,
+        "Delayed": 428,
+        "Diverted": 1,
+        "On Time": 4144,
+        "Total": 4617
+      },
+      "Minutes Delayed": {
+        "Carrier": 6798,
+        "Late Aircraft": 7490,
+        "National Aviation System": 4505,
+        "Security": 39,
+        "Total": 19295,
+        "Weather": 463
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "PHL",
+      "Name": "Philadelphia, PA: Philadelphia International"
+    },
+    "Time": {
+      "Label": "2003/09",
+      "Month": 9,
+      "Month Name": "September",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 207,
+        "Late Aircraft": 361,
+        "National Aviation System": 1198,
+        "Security": 0,
+        "Weather": 40
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,Atlantic Southeast Airlines,AirTran Airways Corporation,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 13
+      },
+      "Flights": {
+        "Cancelled": 206,
+        "Delayed": 1806,
+        "Diverted": 33,
+        "On Time": 6902,
+        "Total": 8947
+      },
+      "Minutes Delayed": {
+        "Carrier": 9829,
+        "Late Aircraft": 21665,
+        "National Aviation System": 56548,
+        "Security": 0,
+        "Total": 91049,
+        "Weather": 3007
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "PHX",
+      "Name": "Phoenix, AZ: Phoenix Sky Harbor International"
+    },
+    "Time": {
+      "Label": "2003/09",
+      "Month": 9,
+      "Month Name": "September",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 369,
+        "Late Aircraft": 404,
+        "National Aviation System": 347,
+        "Security": 2,
+        "Weather": 15
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,Continental Air Lines Inc.,Delta Air Lines Inc.,America West Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 12
+      },
+      "Flights": {
+        "Cancelled": 146,
+        "Delayed": 1138,
+        "Diverted": 8,
+        "On Time": 12372,
+        "Total": 13664
+      },
+      "Minutes Delayed": {
+        "Carrier": 20111,
+        "Late Aircraft": 18043,
+        "National Aviation System": 12205,
+        "Security": 44,
+        "Total": 51261,
+        "Weather": 858
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "SAN",
+      "Name": "San Diego, CA: San Diego International"
+    },
+    "Time": {
+      "Label": "2003/09",
+      "Month": 9,
+      "Month Name": "September",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 227,
+        "Late Aircraft": 161,
+        "National Aviation System": 177,
+        "Security": 1,
+        "Weather": 19
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Delta Air Lines Inc.,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 12
+      },
+      "Flights": {
+        "Cancelled": 48,
+        "Delayed": 584,
+        "Diverted": 6,
+        "On Time": 6250,
+        "Total": 6888
+      },
+      "Minutes Delayed": {
+        "Carrier": 9486,
+        "Late Aircraft": 7033,
+        "National Aviation System": 6643,
+        "Security": 17,
+        "Total": 24189,
+        "Weather": 1010
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "SEA",
+      "Name": "Seattle, WA: Seattle/Tacoma International"
+    },
+    "Time": {
+      "Label": "2003/09",
+      "Month": 9,
+      "Month Name": "September",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 292,
+        "Late Aircraft": 308,
+        "National Aviation System": 352,
+        "Security": 3,
+        "Weather": 18
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Delta Air Lines Inc.,America West Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 12
+      },
+      "Flights": {
+        "Cancelled": 86,
+        "Delayed": 972,
+        "Diverted": 16,
+        "On Time": 7712,
+        "Total": 8786
+      },
+      "Minutes Delayed": {
+        "Carrier": 15567,
+        "Late Aircraft": 15602,
+        "National Aviation System": 11310,
+        "Security": 78,
+        "Total": 43479,
+        "Weather": 922
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "SFO",
+      "Name": "San Francisco, CA: San Francisco International"
+    },
+    "Time": {
+      "Label": "2003/09",
+      "Month": 9,
+      "Month Name": "September",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 339,
+        "Late Aircraft": 233,
+        "National Aviation System": 765,
+        "Security": 6,
+        "Weather": 27
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,Continental Air Lines Inc.,Delta Air Lines Inc.,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 11
+      },
+      "Flights": {
+        "Cancelled": 65,
+        "Delayed": 1371,
+        "Diverted": 3,
+        "On Time": 8468,
+        "Total": 9907
+      },
+      "Minutes Delayed": {
+        "Carrier": 16537,
+        "Late Aircraft": 13574,
+        "National Aviation System": 29769,
+        "Security": 134,
+        "Total": 62072,
+        "Weather": 2058
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "SLC",
+      "Name": "Salt Lake City, UT: Salt Lake City International"
+    },
+    "Time": {
+      "Label": "2003/09",
+      "Month": 9,
+      "Month Name": "September",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 269,
+        "Late Aircraft": 171,
+        "National Aviation System": 260,
+        "Security": 6,
+        "Weather": 23
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Delta Air Lines Inc.,Atlantic Southeast Airlines,America West Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,United Air Lines Inc.,Southwest Airlines Co.",
+        "Total": 10
+      },
+      "Flights": {
+        "Cancelled": 54,
+        "Delayed": 730,
+        "Diverted": 0,
+        "On Time": 9769,
+        "Total": 10553
+      },
+      "Minutes Delayed": {
+        "Carrier": 12162,
+        "Late Aircraft": 7411,
+        "National Aviation System": 7967,
+        "Security": 130,
+        "Total": 29093,
+        "Weather": 1423
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "TPA",
+      "Name": "Tampa, FL: Tampa International"
+    },
+    "Time": {
+      "Label": "2003/09",
+      "Month": 9,
+      "Month Name": "September",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 135,
+        "Late Aircraft": 197,
+        "National Aviation System": 283,
+        "Security": -1,
+        "Weather": 11
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Delta Air Lines Inc.,AirTran Airways Corporation,America West Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 11
+      },
+      "Flights": {
+        "Cancelled": 34,
+        "Delayed": 629,
+        "Diverted": 0,
+        "On Time": 4535,
+        "Total": 5198
+      },
+      "Minutes Delayed": {
+        "Carrier": 6378,
+        "Late Aircraft": 10114,
+        "National Aviation System": 10231,
+        "Security": 13,
+        "Total": 27377,
+        "Weather": 637
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "ATL",
+      "Name": "Atlanta, GA: Hartsfield-Jackson Atlanta International"
+    },
+    "Time": {
+      "Label": "2003/10",
+      "Month": 10,
+      "Month Name": "October",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 756,
+        "Late Aircraft": 906,
+        "National Aviation System": 3355,
+        "Security": 4,
+        "Weather": 170
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Delta Air Lines Inc.,Atlantic Southeast Airlines,AirTran Airways Corporation,America West Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,United Air Lines Inc.,US Airways Inc.",
+        "Total": 11
+      },
+      "Flights": {
+        "Cancelled": 189,
+        "Delayed": 5188,
+        "Diverted": 12,
+        "On Time": 26398,
+        "Total": 31787
+      },
+      "Minutes Delayed": {
+        "Carrier": 48821,
+        "Late Aircraft": 41875,
+        "National Aviation System": 111361,
+        "Security": 188,
+        "Total": 210846,
+        "Weather": 8601
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "BOS",
+      "Name": "Boston, MA: Logan International"
+    },
+    "Time": {
+      "Label": "2003/10",
+      "Month": 10,
+      "Month Name": "October",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 348,
+        "Late Aircraft": 382,
+        "National Aviation System": 539,
+        "Security": 4,
+        "Weather": 13
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,Atlantic Southeast Airlines,AirTran Airways Corporation,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 14
+      },
+      "Flights": {
+        "Cancelled": 124,
+        "Delayed": 1284,
+        "Diverted": 9,
+        "On Time": 8543,
+        "Total": 9960
+      },
+      "Minutes Delayed": {
+        "Carrier": 18198,
+        "Late Aircraft": 19363,
+        "National Aviation System": 15163,
+        "Security": 156,
+        "Total": 53533,
+        "Weather": 653
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "BWI",
+      "Name": "Baltimore, MD: Baltimore/Washington International Thurgood Marshall"
+    },
+    "Time": {
+      "Label": "2003/10",
+      "Month": 10,
+      "Month Name": "October",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 280,
+        "Late Aircraft": 412,
+        "National Aviation System": 334,
+        "Security": 6,
+        "Weather": 18
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Continental Air Lines Inc.,Delta Air Lines Inc.,AirTran Airways Corporation,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 11
+      },
+      "Flights": {
+        "Cancelled": 42,
+        "Delayed": 1050,
+        "Diverted": 13,
+        "On Time": 7513,
+        "Total": 8618
+      },
+      "Minutes Delayed": {
+        "Carrier": 12982,
+        "Late Aircraft": 19423,
+        "National Aviation System": 10993,
+        "Security": 195,
+        "Total": 44654,
+        "Weather": 1061
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "CLT",
+      "Name": "Charlotte, NC: Charlotte Douglas International"
+    },
+    "Time": {
+      "Label": "2003/10",
+      "Month": 10,
+      "Month Name": "October",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 180,
+        "Late Aircraft": 239,
+        "National Aviation System": 420,
+        "Security": 1,
+        "Weather": 8
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,Atlantic Southeast Airlines,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 11
+      },
+      "Flights": {
+        "Cancelled": 54,
+        "Delayed": 850,
+        "Diverted": 2,
+        "On Time": 8210,
+        "Total": 9116
+      },
+      "Minutes Delayed": {
+        "Carrier": 8667,
+        "Late Aircraft": 9925,
+        "National Aviation System": 10434,
+        "Security": 16,
+        "Total": 29420,
+        "Weather": 378
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "DCA",
+      "Name": "Washington, DC: Ronald Reagan Washington National"
+    },
+    "Time": {
+      "Label": "2003/10",
+      "Month": 10,
+      "Month Name": "October",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 226,
+        "Late Aircraft": 172,
+        "National Aviation System": 374,
+        "Security": 2,
+        "Weather": 18
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,Atlantic Southeast Airlines,AirTran Airways Corporation,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 14
+      },
+      "Flights": {
+        "Cancelled": 57,
+        "Delayed": 790,
+        "Diverted": 39,
+        "On Time": 6078,
+        "Total": 6964
+      },
+      "Minutes Delayed": {
+        "Carrier": 10083,
+        "Late Aircraft": 7642,
+        "National Aviation System": 11881,
+        "Security": 106,
+        "Total": 30801,
+        "Weather": 1089
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "DEN",
+      "Name": "Denver, CO: Denver International"
+    },
+    "Time": {
+      "Label": "2003/10",
+      "Month": 10,
+      "Month Name": "October",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 451,
+        "Late Aircraft": 296,
+        "National Aviation System": 419,
+        "Security": 8,
+        "Weather": 24
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Delta Air Lines Inc.,Atlantic Southeast Airlines,AirTran Airways Corporation,America West Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 14
+      },
+      "Flights": {
+        "Cancelled": 91,
+        "Delayed": 1197,
+        "Diverted": 6,
+        "On Time": 11348,
+        "Total": 12642
+      },
+      "Minutes Delayed": {
+        "Carrier": 23772,
+        "Late Aircraft": 19133,
+        "National Aviation System": 11716,
+        "Security": 454,
+        "Total": 57172,
+        "Weather": 2097
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "DFW",
+      "Name": "Dallas/Fort Worth, TX: Dallas/Fort Worth International"
+    },
+    "Time": {
+      "Label": "2003/10",
+      "Month": 10,
+      "Month Name": "October",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 700,
+        "Late Aircraft": 635,
+        "National Aviation System": 892,
+        "Security": 11,
+        "Weather": 79
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Continental Air Lines Inc.,Delta Air Lines Inc.,Atlantic Southeast Airlines,AirTran Airways Corporation,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 13
+      },
+      "Flights": {
+        "Cancelled": 200,
+        "Delayed": 2314,
+        "Diverted": 11,
+        "On Time": 25757,
+        "Total": 28282
+      },
+      "Minutes Delayed": {
+        "Carrier": 50028,
+        "Late Aircraft": 30244,
+        "National Aviation System": 28680,
+        "Security": 434,
+        "Total": 116061,
+        "Weather": 6675
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "DTW",
+      "Name": "Detroit, MI: Detroit Metro Wayne County"
+    },
+    "Time": {
+      "Label": "2003/10",
+      "Month": 10,
+      "Month Name": "October",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 294,
+        "Late Aircraft": 243,
+        "National Aviation System": 600,
+        "Security": 5,
+        "Weather": 21
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,Atlantic Southeast Airlines,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 12
+      },
+      "Flights": {
+        "Cancelled": 64,
+        "Delayed": 1161,
+        "Diverted": 5,
+        "On Time": 10817,
+        "Total": 12047
+      },
+      "Minutes Delayed": {
+        "Carrier": 18527,
+        "Late Aircraft": 10754,
+        "National Aviation System": 14809,
+        "Security": 345,
+        "Total": 45537,
+        "Weather": 1102
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "EWR",
+      "Name": "Newark, NJ: Newark Liberty International"
+    },
+    "Time": {
+      "Label": "2003/10",
+      "Month": 10,
+      "Month Name": "October",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 296,
+        "Late Aircraft": 324,
+        "National Aviation System": 1710,
+        "Security": 6,
+        "Weather": 54
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,AirTran Airways Corporation,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 13
+      },
+      "Flights": {
+        "Cancelled": 135,
+        "Delayed": 2387,
+        "Diverted": 15,
+        "On Time": 10622,
+        "Total": 13159
+      },
+      "Minutes Delayed": {
+        "Carrier": 16563,
+        "Late Aircraft": 17900,
+        "National Aviation System": 81269,
+        "Security": 230,
+        "Total": 119623,
+        "Weather": 3661
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "FLL",
+      "Name": "Fort Lauderdale, FL: Fort Lauderdale-Hollywood International"
+    },
+    "Time": {
+      "Label": "2003/10",
+      "Month": 10,
+      "Month Name": "October",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 153,
+        "Late Aircraft": 177,
+        "National Aviation System": 192,
+        "Security": 5,
+        "Weather": 5
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Delta Air Lines Inc.,AirTran Airways Corporation,America West Airlines Inc.,Northwest Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 11
+      },
+      "Flights": {
+        "Cancelled": 5,
+        "Delayed": 533,
+        "Diverted": 5,
+        "On Time": 4522,
+        "Total": 5065
+      },
+      "Minutes Delayed": {
+        "Carrier": 6585,
+        "Late Aircraft": 9407,
+        "National Aviation System": 5152,
+        "Security": 209,
+        "Total": 21673,
+        "Weather": 320
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "IAD",
+      "Name": "Washington, DC: Washington Dulles International"
+    },
+    "Time": {
+      "Label": "2003/10",
+      "Month": 10,
+      "Month Name": "October",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 280,
+        "Late Aircraft": 309,
+        "National Aviation System": 510,
+        "Security": 7,
+        "Weather": 67
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,AirTran Airways Corporation,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,United Air Lines Inc.,US Airways Inc.",
+        "Total": 13
+      },
+      "Flights": {
+        "Cancelled": 125,
+        "Delayed": 1171,
+        "Diverted": 15,
+        "On Time": 7412,
+        "Total": 8723
+      },
+      "Minutes Delayed": {
+        "Carrier": 14986,
+        "Late Aircraft": 18071,
+        "National Aviation System": 21855,
+        "Security": 302,
+        "Total": 64257,
+        "Weather": 9043
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "IAH",
+      "Name": "Houston, TX: George Bush Intercontinental/Houston"
+    },
+    "Time": {
+      "Label": "2003/10",
+      "Month": 10,
+      "Month Name": "October",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 291,
+        "Late Aircraft": 351,
+        "National Aviation System": 964,
+        "Security": 10,
+        "Weather": 42
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Continental Air Lines Inc.,Delta Air Lines Inc.,Atlantic Southeast Airlines,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,ExpressJet Airlines Inc.,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 12
+      },
+      "Flights": {
+        "Cancelled": 51,
+        "Delayed": 1656,
+        "Diverted": 36,
+        "On Time": 14214,
+        "Total": 15957
+      },
+      "Minutes Delayed": {
+        "Carrier": 16074,
+        "Late Aircraft": 18952,
+        "National Aviation System": 29350,
+        "Security": 390,
+        "Total": 69360,
+        "Weather": 4594
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "JFK",
+      "Name": "New York, NY: John F. Kennedy International"
+    },
+    "Time": {
+      "Label": "2003/10",
+      "Month": 10,
+      "Month Name": "October",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 201,
+        "Late Aircraft": 156,
+        "National Aviation System": 373,
+        "Security": 7,
+        "Weather": 16
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,Atlantic Southeast Airlines,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,United Air Lines Inc.",
+        "Total": 11
+      },
+      "Flights": {
+        "Cancelled": 28,
+        "Delayed": 755,
+        "Diverted": 6,
+        "On Time": 5335,
+        "Total": 6124
+      },
+      "Minutes Delayed": {
+        "Carrier": 12350,
+        "Late Aircraft": 9965,
+        "National Aviation System": 15255,
+        "Security": 204,
+        "Total": 39054,
+        "Weather": 1280
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "LAS",
+      "Name": "Las Vegas, NV: McCarran International"
+    },
+    "Time": {
+      "Label": "2003/10",
+      "Month": 10,
+      "Month Name": "October",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 429,
+        "Late Aircraft": 573,
+        "National Aviation System": 800,
+        "Security": 9,
+        "Weather": 32
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Delta Air Lines Inc.,America West Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 12
+      },
+      "Flights": {
+        "Cancelled": 135,
+        "Delayed": 1841,
+        "Diverted": 17,
+        "On Time": 10594,
+        "Total": 12587
+      },
+      "Minutes Delayed": {
+        "Carrier": 19898,
+        "Late Aircraft": 32158,
+        "National Aviation System": 34651,
+        "Security": 555,
+        "Total": 89796,
+        "Weather": 2534
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "LAX",
+      "Name": "Los Angeles, CA: Los Angeles International"
+    },
+    "Time": {
+      "Label": "2003/10",
+      "Month": 10,
+      "Month Name": "October",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 612,
+        "Late Aircraft": 578,
+        "National Aviation System": 1112,
+        "Security": 12,
+        "Weather": 150
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,Continental Air Lines Inc.,Delta Air Lines Inc.,Atlantic Southeast Airlines,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 13
+      },
+      "Flights": {
+        "Cancelled": 581,
+        "Delayed": 2463,
+        "Diverted": 78,
+        "On Time": 15851,
+        "Total": 18973
+      },
+      "Minutes Delayed": {
+        "Carrier": 33935,
+        "Late Aircraft": 32937,
+        "National Aviation System": 74833,
+        "Security": 496,
+        "Total": 155938,
+        "Weather": 13737
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "LGA",
+      "Name": "New York, NY: LaGuardia"
+    },
+    "Time": {
+      "Label": "2003/10",
+      "Month": 10,
+      "Month Name": "October",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 281,
+        "Late Aircraft": 260,
+        "National Aviation System": 808,
+        "Security": 2,
+        "Weather": 27
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,AirTran Airways Corporation,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 11
+      },
+      "Flights": {
+        "Cancelled": 124,
+        "Delayed": 1375,
+        "Diverted": 6,
+        "On Time": 7814,
+        "Total": 9319
+      },
+      "Minutes Delayed": {
+        "Carrier": 13835,
+        "Late Aircraft": 13847,
+        "National Aviation System": 32134,
+        "Security": 83,
+        "Total": 61210,
+        "Weather": 1311
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "MCO",
+      "Name": "Orlando, FL: Orlando International"
+    },
+    "Time": {
+      "Label": "2003/10",
+      "Month": 10,
+      "Month Name": "October",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 267,
+        "Late Aircraft": 249,
+        "National Aviation System": 298,
+        "Security": 1,
+        "Weather": 4
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Delta Air Lines Inc.,AirTran Airways Corporation,America West Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 13
+      },
+      "Flights": {
+        "Cancelled": 17,
+        "Delayed": 816,
+        "Diverted": 6,
+        "On Time": 6985,
+        "Total": 7824
+      },
+      "Minutes Delayed": {
+        "Carrier": 11785,
+        "Late Aircraft": 12138,
+        "National Aviation System": 8768,
+        "Security": 10,
+        "Total": 33077,
+        "Weather": 376
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "MDW",
+      "Name": "Chicago, IL: Chicago Midway International"
+    },
+    "Time": {
+      "Label": "2003/10",
+      "Month": 10,
+      "Month Name": "October",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 151,
+        "Late Aircraft": 336,
+        "National Aviation System": 361,
+        "Security": 5,
+        "Weather": 14
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,AirTran Airways Corporation,Northwest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,Southwest Airlines Co.",
+        "Total": 9
+      },
+      "Flights": {
+        "Cancelled": 45,
+        "Delayed": 869,
+        "Diverted": 3,
+        "On Time": 6748,
+        "Total": 7665
+      },
+      "Minutes Delayed": {
+        "Carrier": 7552,
+        "Late Aircraft": 17727,
+        "National Aviation System": 10247,
+        "Security": 184,
+        "Total": 36536,
+        "Weather": 826
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "MIA",
+      "Name": "Miami, FL: Miami International"
+    },
+    "Time": {
+      "Label": "2003/10",
+      "Month": 10,
+      "Month Name": "October",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 177,
+        "Late Aircraft": 118,
+        "National Aviation System": 288,
+        "Security": 0,
+        "Weather": 19
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,Continental Air Lines Inc.,Delta Air Lines Inc.,AirTran Airways Corporation,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 12
+      },
+      "Flights": {
+        "Cancelled": 34,
+        "Delayed": 603,
+        "Diverted": 14,
+        "On Time": 4297,
+        "Total": 4948
+      },
+      "Minutes Delayed": {
+        "Carrier": 11322,
+        "Late Aircraft": 6822,
+        "National Aviation System": 8642,
+        "Security": 0,
+        "Total": 27775,
+        "Weather": 989
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "MSP",
+      "Name": "Minneapolis, MN: Minneapolis-St Paul International"
+    },
+    "Time": {
+      "Label": "2003/10",
+      "Month": 10,
+      "Month Name": "October",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 363,
+        "Late Aircraft": 202,
+        "National Aviation System": 819,
+        "Security": 8,
+        "Weather": 22
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Continental Air Lines Inc.,Delta Air Lines Inc.,AirTran Airways Corporation,America West Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 11
+      },
+      "Flights": {
+        "Cancelled": 53,
+        "Delayed": 1412,
+        "Diverted": 7,
+        "On Time": 10626,
+        "Total": 12098
+      },
+      "Minutes Delayed": {
+        "Carrier": 23095,
+        "Late Aircraft": 10775,
+        "National Aviation System": 21114,
+        "Security": 310,
+        "Total": 56341,
+        "Weather": 1047
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "ORD",
+      "Name": "Chicago, IL: Chicago O'Hare International"
+    },
+    "Time": {
+      "Label": "2003/10",
+      "Month": 10,
+      "Month Name": "October",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 673,
+        "Late Aircraft": 896,
+        "National Aviation System": 2951,
+        "Security": 9,
+        "Weather": 38
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,Atlantic Southeast Airlines,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,ExpressJet Airlines Inc.,United Air Lines Inc.,US Airways Inc.",
+        "Total": 13
+      },
+      "Flights": {
+        "Cancelled": 324,
+        "Delayed": 4564,
+        "Diverted": 16,
+        "On Time": 26086,
+        "Total": 30990
+      },
+      "Minutes Delayed": {
+        "Carrier": 43272,
+        "Late Aircraft": 45022,
+        "National Aviation System": 113979,
+        "Security": 543,
+        "Total": 204968,
+        "Weather": 2152
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "PDX",
+      "Name": "Portland, OR: Portland International"
+    },
+    "Time": {
+      "Label": "2003/10",
+      "Month": 10,
+      "Month Name": "October",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 147,
+        "Late Aircraft": 245,
+        "National Aviation System": 255,
+        "Security": 3,
+        "Weather": 4
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,Continental Air Lines Inc.,Delta Air Lines Inc.,America West Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,United Air Lines Inc.,Southwest Airlines Co.",
+        "Total": 9
+      },
+      "Flights": {
+        "Cancelled": 45,
+        "Delayed": 656,
+        "Diverted": 3,
+        "On Time": 4045,
+        "Total": 4749
+      },
+      "Minutes Delayed": {
+        "Carrier": 7896,
+        "Late Aircraft": 14719,
+        "National Aviation System": 8010,
+        "Security": 182,
+        "Total": 31002,
+        "Weather": 195
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "PHL",
+      "Name": "Philadelphia, PA: Philadelphia International"
+    },
+    "Time": {
+      "Label": "2003/10",
+      "Month": 10,
+      "Month Name": "October",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 256,
+        "Late Aircraft": 312,
+        "National Aviation System": 890,
+        "Security": 2,
+        "Weather": 16
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,Atlantic Southeast Airlines,AirTran Airways Corporation,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 13
+      },
+      "Flights": {
+        "Cancelled": 80,
+        "Delayed": 1475,
+        "Diverted": 9,
+        "On Time": 7675,
+        "Total": 9239
+      },
+      "Minutes Delayed": {
+        "Carrier": 11126,
+        "Late Aircraft": 14601,
+        "National Aviation System": 30965,
+        "Security": 44,
+        "Total": 57820,
+        "Weather": 1084
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "PHX",
+      "Name": "Phoenix, AZ: Phoenix Sky Harbor International"
+    },
+    "Time": {
+      "Label": "2003/10",
+      "Month": 10,
+      "Month Name": "October",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 450,
+        "Late Aircraft": 566,
+        "National Aviation System": 530,
+        "Security": 11,
+        "Weather": 19
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,Continental Air Lines Inc.,Delta Air Lines Inc.,America West Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 12
+      },
+      "Flights": {
+        "Cancelled": 187,
+        "Delayed": 1577,
+        "Diverted": 10,
+        "On Time": 12481,
+        "Total": 14255
+      },
+      "Minutes Delayed": {
+        "Carrier": 23993,
+        "Late Aircraft": 30844,
+        "National Aviation System": 18222,
+        "Security": 454,
+        "Total": 75157,
+        "Weather": 1644
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "SAN",
+      "Name": "San Diego, CA: San Diego International"
+    },
+    "Time": {
+      "Label": "2003/10",
+      "Month": 10,
+      "Month Name": "October",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 238,
+        "Late Aircraft": 280,
+        "National Aviation System": 324,
+        "Security": 7,
+        "Weather": 44
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Delta Air Lines Inc.,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 12
+      },
+      "Flights": {
+        "Cancelled": 189,
+        "Delayed": 892,
+        "Diverted": 82,
+        "On Time": 6043,
+        "Total": 7206
+      },
+      "Minutes Delayed": {
+        "Carrier": 10136,
+        "Late Aircraft": 13836,
+        "National Aviation System": 12173,
+        "Security": 431,
+        "Total": 39876,
+        "Weather": 3300
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "SEA",
+      "Name": "Seattle, WA: Seattle/Tacoma International"
+    },
+    "Time": {
+      "Label": "2003/10",
+      "Month": 10,
+      "Month Name": "October",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 363,
+        "Late Aircraft": 425,
+        "National Aviation System": 898,
+        "Security": 2,
+        "Weather": 19
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Delta Air Lines Inc.,America West Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 12
+      },
+      "Flights": {
+        "Cancelled": 113,
+        "Delayed": 1707,
+        "Diverted": 14,
+        "On Time": 7087,
+        "Total": 8921
+      },
+      "Minutes Delayed": {
+        "Carrier": 20000,
+        "Late Aircraft": 24715,
+        "National Aviation System": 27347,
+        "Security": 80,
+        "Total": 73423,
+        "Weather": 1281
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "SFO",
+      "Name": "San Francisco, CA: San Francisco International"
+    },
+    "Time": {
+      "Label": "2003/10",
+      "Month": 10,
+      "Month Name": "October",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 379,
+        "Late Aircraft": 285,
+        "National Aviation System": 757,
+        "Security": 7,
+        "Weather": 32
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,Continental Air Lines Inc.,Delta Air Lines Inc.,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 11
+      },
+      "Flights": {
+        "Cancelled": 102,
+        "Delayed": 1456,
+        "Diverted": 10,
+        "On Time": 8804,
+        "Total": 10372
+      },
+      "Minutes Delayed": {
+        "Carrier": 17952,
+        "Late Aircraft": 16901,
+        "National Aviation System": 27186,
+        "Security": 134,
+        "Total": 64070,
+        "Weather": 1897
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "SLC",
+      "Name": "Salt Lake City, UT: Salt Lake City International"
+    },
+    "Time": {
+      "Label": "2003/10",
+      "Month": 10,
+      "Month Name": "October",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 326,
+        "Late Aircraft": 216,
+        "National Aviation System": 325,
+        "Security": 7,
+        "Weather": 34
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Delta Air Lines Inc.,Atlantic Southeast Airlines,America West Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,ExpressJet Airlines Inc.,United Air Lines Inc.,Southwest Airlines Co.",
+        "Total": 11
+      },
+      "Flights": {
+        "Cancelled": 61,
+        "Delayed": 907,
+        "Diverted": 3,
+        "On Time": 9670,
+        "Total": 10641
+      },
+      "Minutes Delayed": {
+        "Carrier": 16766,
+        "Late Aircraft": 12213,
+        "National Aviation System": 10705,
+        "Security": 257,
+        "Total": 41520,
+        "Weather": 1579
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "TPA",
+      "Name": "Tampa, FL: Tampa International"
+    },
+    "Time": {
+      "Label": "2003/10",
+      "Month": 10,
+      "Month Name": "October",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 177,
+        "Late Aircraft": 210,
+        "National Aviation System": 201,
+        "Security": 3,
+        "Weather": 5
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Delta Air Lines Inc.,AirTran Airways Corporation,America West Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 11
+      },
+      "Flights": {
+        "Cancelled": 9,
+        "Delayed": 596,
+        "Diverted": 0,
+        "On Time": 4940,
+        "Total": 5545
+      },
+      "Minutes Delayed": {
+        "Carrier": 9434,
+        "Late Aircraft": 10327,
+        "National Aviation System": 5786,
+        "Security": 120,
+        "Total": 25812,
+        "Weather": 145
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "ATL",
+      "Name": "Atlanta, GA: Hartsfield-Jackson Atlanta International"
+    },
+    "Time": {
+      "Label": "2003/11",
+      "Month": 11,
+      "Month Name": "November",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 789,
+        "Late Aircraft": 888,
+        "National Aviation System": 2773,
+        "Security": 6,
+        "Weather": 155
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Delta Air Lines Inc.,Atlantic Southeast Airlines,AirTran Airways Corporation,America West Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,United Air Lines Inc.,US Airways Inc.",
+        "Total": 11
+      },
+      "Flights": {
+        "Cancelled": 263,
+        "Delayed": 4609,
+        "Diverted": 21,
+        "On Time": 25220,
+        "Total": 30113
+      },
+      "Minutes Delayed": {
+        "Carrier": 46969,
+        "Late Aircraft": 45779,
+        "National Aviation System": 92045,
+        "Security": 143,
+        "Total": 193608,
+        "Weather": 8672
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "BOS",
+      "Name": "Boston, MA: Logan International"
+    },
+    "Time": {
+      "Label": "2003/11",
+      "Month": 11,
+      "Month Name": "November",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 311,
+        "Late Aircraft": 414,
+        "National Aviation System": 418,
+        "Security": 0,
+        "Weather": 22
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,Atlantic Southeast Airlines,AirTran Airways Corporation,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 14
+      },
+      "Flights": {
+        "Cancelled": 156,
+        "Delayed": 1168,
+        "Diverted": 6,
+        "On Time": 7920,
+        "Total": 9250
+      },
+      "Minutes Delayed": {
+        "Carrier": 17405,
+        "Late Aircraft": 23277,
+        "National Aviation System": 12515,
+        "Security": 0,
+        "Total": 54711,
+        "Weather": 1514
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "BWI",
+      "Name": "Baltimore, MD: Baltimore/Washington International Thurgood Marshall"
+    },
+    "Time": {
+      "Label": "2003/11",
+      "Month": 11,
+      "Month Name": "November",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 291,
+        "Late Aircraft": 408,
+        "National Aviation System": 380,
+        "Security": 2,
+        "Weather": 20
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Continental Air Lines Inc.,Delta Air Lines Inc.,AirTran Airways Corporation,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,United Air Lines Inc.,US Airways Inc.,Southwest Airlines Co.",
+        "Total": 11
+      },
+      "Flights": {
+        "Cancelled": 40,
+        "Delayed": 1102,
+        "Diverted": 17,
+        "On Time": 6905,
+        "Total": 8064
+      },
+      "Minutes Delayed": {
+        "Carrier": 13786,
+        "Late Aircraft": 21392,
+        "National Aviation System": 13388,
+        "Security": 58,
+        "Total": 50385,
+        "Weather": 1761
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "CLT",
+      "Name": "Charlotte, NC: Charlotte Douglas International"
+    },
+    "Time": {
+      "Label": "2003/11",
+      "Month": 11,
+      "Month Name": "November",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 201,
+        "Late Aircraft": 314,
+        "National Aviation System": 397,
+        "Security": 0,
+        "Weather": 12
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,Atlantic Southeast Airlines,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 11
+      },
+      "Flights": {
+        "Cancelled": 77,
+        "Delayed": 927,
+        "Diverted": 3,
+        "On Time": 7689,
+        "Total": 8696
+      },
+      "Minutes Delayed": {
+        "Carrier": 9334,
+        "Late Aircraft": 15327,
+        "National Aviation System": 10897,
+        "Security": 0,
+        "Total": 36259,
+        "Weather": 701
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "DCA",
+      "Name": "Washington, DC: Ronald Reagan Washington National"
+    },
+    "Time": {
+      "Label": "2003/11",
+      "Month": 11,
+      "Month Name": "November",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 232,
+        "Late Aircraft": 289,
+        "National Aviation System": 387,
+        "Security": 2,
+        "Weather": 21
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,Continental Air Lines Inc.,Atlantic Coast Airlines,Delta Air Lines Inc.,Atlantic Southeast Airlines,AirTran Airways Corporation,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 14
+      },
+      "Flights": {
+        "Cancelled": 91,
+        "Delayed": 929,
+        "Diverted": 22,
+        "On Time": 5495,
+        "Total": 6537
+      },
+      "Minutes Delayed": {
+        "Carrier": 11956,
+        "Late Aircraft": 16264,
+        "National Aviation System": 12299,
+        "Security": 99,
+        "Total": 41879,
+        "Weather": 1261
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "DEN",
+      "Name": "Denver, CO: Denver International"
+    },
+    "Time": {
+      "Label": "2003/11",
+      "Month": 11,
+      "Month Name": "November",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 679,
+        "Late Aircraft": 387,
+        "National Aviation System": 822,
+        "Security": 9,
+        "Weather": 91
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,JetBlue Airways,Continental Air Lines Inc.,Delta Air Lines Inc.,Atlantic Southeast Airlines,AirTran Airways Corporation,America West Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 14
+      },
+      "Flights": {
+        "Cancelled": 102,
+        "Delayed": 1990,
+        "Diverted": 5,
+        "On Time": 9742,
+        "Total": 11839
+      },
+      "Minutes Delayed": {
+        "Carrier": 31476,
+        "Late Aircraft": 23104,
+        "National Aviation System": 23652,
+        "Security": 287,
+        "Total": 86644,
+        "Weather": 8125
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "DFW",
+      "Name": "Dallas/Fort Worth, TX: Dallas/Fort Worth International"
+    },
+    "Time": {
+      "Label": "2003/11",
+      "Month": 11,
+      "Month Name": "November",
+      "Year": 2003
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 825,
+        "Late Aircraft": 1028,
+        "National Aviation System": 1632,
+        "Security": 9,
+        "Weather": 167
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Continental Air Lines Inc.,Delta Air Lines Inc.,Atlantic Southeast Airlines,AirTran Airways Corporation,America West Airlines Inc.,American Eagle Airlines Inc.,Northwest Airlines Inc.,SkyWest Airlines Inc.,ExpressJet Airlines Inc.,ATA Airlines d/b/a ATA,United Air Lines Inc.,US Airways Inc.",
+        "Total": 13
+      },
+      "Flights": {
+        "Cancelled": 373,
+        "Delayed": 3662,
+        "Diverted": 61,
+        "On Time": 23809,
+        "Total": 27905
+      },
+      "Minutes Delayed": {
+        "Carrier": 54258,
+        "Late Aircraft": 56317,
+        "National Aviation System": 54590,
+        "Security": 330,
+        "Total": 181139,
+        "Weather": 15644
+      }
+    }
+  }
+]
